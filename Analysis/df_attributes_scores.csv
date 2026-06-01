@@ -1,0 +1,1975 @@
+Agent,attribute,a_score
+Selenium,iframeChrome,0.5
+Selenium,userAgentData_mobile,0.5406
+Selenium,chromeRuntimeProps,0.4737
+Selenium,audioContext_sampleRate,0.4425
+Selenium,permissions_midi,0.4276
+Selenium,host,0.0
+Selenium,permissions_geolocation,0.7138
+Selenium,dnt,0.0394
+Selenium,priority,0.7043
+Selenium,signature,0.0512
+Selenium,screen_left,0.5039
+Selenium,doNotTrack,0.0661
+Selenium,permissions_background-sync,0.6488
+Selenium,detailChrome_loadTimes,0.5256
+Selenium,sec-fetch-mode,0.0
+Selenium,battery_onchargingchange,0.0
+Selenium,origin,0.9
+Selenium,screen_availLeft,0.2205
+Selenium,content-length,0.9911
+Selenium,connection-js_saveData,0.5
+Selenium,webGLRendererException,0.6944
+Selenium,connection,0.0
+Selenium,multiMediaDevices_micros,0.222
+Selenium,cf-visitor,0.0
+Selenium,client_height,0.9542
+Selenium,buildID,0.5
+Selenium,cf-ray,0.0
+Selenium,detailChrome,0.5
+Selenium,sec-ch-ua-platform,0.6622
+Selenium,detailChrome_csi,0.5256
+Selenium,permissions_persistent-storage,0.4276
+Selenium,userAgentData_wow64,0.5406
+Selenium,keyboard,0.7118
+Selenium,userAgentData_architecture,0.5723
+Selenium,audioFormats_audio/x-mpegurl,0.5
+Selenium,detailChrome_app,0.5256
+Selenium,resOverflow,0.0
+Selenium,audioFormats_audio/flac,0.5
+Selenium,productSub,0.5
+Selenium,connection-js_type,0.1024
+Selenium,connection-js_effectiveType,0.5134
+Selenium,accept-encoding,0.0394
+Selenium,screen_depth,0.2441
+Selenium,permissions_magnetometer,0.6488
+Selenium,cf-connecting-ip,0.0
+Selenium,screen_width,0.3638
+Selenium,referer,0.0394
+Selenium,signature-input,0.0512
+Selenium,screen_top,0.5
+Selenium,userAgentData_fullVersionList,0.6219
+Selenium,window_device_pixel_ratio,0.152
+Selenium,battery,0.5
+Selenium,resOverflow_depth,0.9237
+Selenium,battery_onchargingtimechange,0.0
+Selenium,userAgentData_brands,0.6122
+Selenium,screen_height,0.3638
+Selenium,userAgentData_formFactors,0.5274
+Selenium,sec-ch-ua,0.7051
+Selenium,upgrade-insecure-requests,0.0
+Selenium,multiMediaDevices_speakers,0.5012
+Selenium,permissions_push,0.5
+Selenium,permissions_notifications,0.5898
+Selenium,permissions_clipboard-write,0.6488
+Selenium,userAgentData,0.6684
+Selenium,hardwareConcurrency,0.3535
+Selenium,battery_chargingTime,0.5634
+Selenium,battery_charging,0.5547
+Selenium,battery_dischargingTime,0.0984
+Selenium,navigator_properties_hash,0.6661
+Selenium,audioFormats_audio/3gpp,0.1622
+Selenium,cf-ipcountry,0.0
+Selenium,userAgentData_bitness,0.5274
+Selenium,plugins,0.3315
+Selenium,window_outer_height,0.9594
+Selenium,deviceMemory,0.5004
+Selenium,battery_level,0.6669
+Selenium,sec-fetch-site,0.0
+Selenium,resOverflow_errorStacklength,0.8562
+Selenium,window_inner_width,0.8945
+Selenium,connection-js,0.5
+Selenium,alt-used,0.015
+Selenium,userAgent-js,0.8299
+Selenium,detailChrome_sendMessage,0.5453
+Selenium,hasChrome,0.5
+Selenium,connection-js_rtt,0.8889
+Selenium,permissions,0.0
+Selenium,connection-js_downlinkMax,0.0
+Selenium,cdn-loop,0.0
+Selenium,audioContext_state,0.4197
+Selenium,multiMediaDevices,0.0024
+Selenium,detailChrome_runtime,0.5453
+Selenium,"videoFormats_video/ogg; codecs=""opus""",0.5
+Selenium,permissions_camera,0.4276
+Selenium,multiMediaDevices_webcams,0.2339
+Selenium,permissions_accelerometer,0.6488
+Selenium,resOverflow_errorMessage,0.5
+Selenium,userAgentData_model,0.0
+Selenium,videoFormats,0.0
+Selenium,screen_pixel_depth,0.2441
+Selenium,user-agent,0.8299
+Selenium,audioFormats,0.0
+Selenium,screen_availWidth,0.4677
+Selenium,navigator_properties,0.0
+Selenium,permissions_microphone,0.4276
+Selenium,webDriverValue,0.8433
+Selenium,sec-fetch-dest,0.0
+Selenium,screen_availTop,0.2614
+Selenium,window_outer_width,0.9594
+Selenium,battery_ondischargingtimechange,0.0
+Selenium,audioFormats_audio/aac,0.5
+Selenium,x-forwarded-proto,0.0
+Selenium,gyroscope,0.5
+Selenium,accept,0.0394
+Selenium,userAgentData_platformVersion,0.174
+Selenium,screen_availHeight,0.5622
+Selenium,languages-js,0.2898
+Selenium,audioFormats_audio/mpeg,0.5
+Selenium,platform,0.2717
+Selenium,sec-ch-ua-mobile,0.5
+Selenium,timezone,0.4087
+Selenium,accept-language,0.2189
+Selenium,sec-ch-ua-form-factors,0.0394
+Selenium,content-type,0.0
+Selenium,userAgentData_platform,0.5914
+Selenium,detailChrome_webstore,0.5
+Selenium,audioContext,0.0
+Selenium,signature-agent,0.0512
+Selenium,permissions_payment-handler,0.6488
+Selenium,navigator_properties_total,0.6661
+Selenium,detailChrome_connect,0.5453
+Selenium,sec-fetch-user,0.0
+Selenium,battery_onlevelchange,0.0
+Selenium,etsl,0.5
+Selenium,vendor,0.5
+Selenium,client_width,0.9353
+Selenium,resOverflow_errorName,0.5
+Selenium,permissions_clipboard-read,0.6488
+Selenium,window_inner_height,1.0
+Selenium,connection-js_downlink,0.9057
+Selenium,window_screenX,0.3535
+Selenium,cookie_behavior,0.4276
+Playwright,iframeChrome,0.5
+Playwright,userAgentData_mobile,0.5406
+Playwright,chromeRuntimeProps,0.4737
+Playwright,audioContext_sampleRate,0.4425
+Playwright,permissions_midi,0.4276
+Playwright,host,0.0
+Playwright,permissions_geolocation,0.4669
+Playwright,dnt,0.0394
+Playwright,priority,0.7043
+Playwright,signature,0.0512
+Playwright,screen_left,0.5039
+Playwright,doNotTrack,0.0661
+Playwright,permissions_background-sync,0.6488
+Playwright,detailChrome_loadTimes,0.5256
+Playwright,sec-fetch-mode,0.0
+Playwright,battery_onchargingchange,0.0
+Playwright,origin,0.9
+Playwright,screen_availLeft,0.2205
+Playwright,content-length,0.9993
+Playwright,connection-js_saveData,0.5
+Playwright,webGLRendererException,0.7031
+Playwright,connection,0.0
+Playwright,multiMediaDevices_micros,0.222
+Playwright,cf-visitor,0.0
+Playwright,client_height,0.9446
+Playwright,buildID,0.5
+Playwright,cf-ray,0.0
+Playwright,detailChrome,0.5
+Playwright,sec-ch-ua-platform,0.6622
+Playwright,detailChrome_csi,0.5256
+Playwright,permissions_persistent-storage,0.4276
+Playwright,userAgentData_wow64,0.5406
+Playwright,keyboard,0.7118
+Playwright,userAgentData_architecture,0.5723
+Playwright,audioFormats_audio/x-mpegurl,0.5
+Playwright,detailChrome_app,0.5256
+Playwright,resOverflow,0.0
+Playwright,audioFormats_audio/flac,0.5
+Playwright,productSub,0.5
+Playwright,connection-js_type,0.1024
+Playwright,connection-js_effectiveType,0.5134
+Playwright,accept-encoding,0.0394
+Playwright,screen_depth,0.2441
+Playwright,permissions_magnetometer,0.6488
+Playwright,cf-connecting-ip,0.0
+Playwright,screen_width,0.9488
+Playwright,referer,0.0394
+Playwright,signature-input,0.0512
+Playwright,screen_top,0.5
+Playwright,userAgentData_fullVersionList,0.6821
+Playwright,window_device_pixel_ratio,0.152
+Playwright,battery,0.5
+Playwright,resOverflow_depth,0.985
+Playwright,battery_onchargingtimechange,0.0
+Playwright,userAgentData_brands,0.6982
+Playwright,screen_height,1.0
+Playwright,userAgentData_formFactors,0.5274
+Playwright,sec-ch-ua,0.9335
+Playwright,upgrade-insecure-requests,0.0
+Playwright,multiMediaDevices_speakers,0.5012
+Playwright,permissions_push,0.5
+Playwright,permissions_notifications,0.5898
+Playwright,permissions_clipboard-write,0.6488
+Playwright,userAgentData,0.6684
+Playwright,hardwareConcurrency,0.3535
+Playwright,battery_chargingTime,0.5634
+Playwright,battery_charging,0.5547
+Playwright,battery_dischargingTime,0.0984
+Playwright,navigator_properties_hash,0.6661
+Playwright,audioFormats_audio/3gpp,0.1622
+Playwright,cf-ipcountry,0.0
+Playwright,userAgentData_bitness,0.5274
+Playwright,plugins,0.565
+Playwright,window_outer_height,1.0
+Playwright,deviceMemory,0.5004
+Playwright,battery_level,0.6669
+Playwright,sec-fetch-site,0.0
+Playwright,resOverflow_errorStacklength,0.9251
+Playwright,window_inner_width,0.8315
+Playwright,connection-js,0.5
+Playwright,alt-used,0.015
+Playwright,userAgent-js,0.9803
+Playwright,detailChrome_sendMessage,0.5453
+Playwright,hasChrome,0.5
+Playwright,connection-js_rtt,0.8626
+Playwright,permissions,0.0
+Playwright,connection-js_downlinkMax,0.0
+Playwright,cdn-loop,0.0
+Playwright,audioContext_state,0.4197
+Playwright,multiMediaDevices,0.0024
+Playwright,detailChrome_runtime,0.5453
+Playwright,"videoFormats_video/ogg; codecs=""opus""",0.5
+Playwright,permissions_camera,0.4276
+Playwright,multiMediaDevices_webcams,0.2339
+Playwright,permissions_accelerometer,0.6488
+Playwright,resOverflow_errorMessage,0.5
+Playwright,userAgentData_model,0.0
+Playwright,videoFormats,0.0
+Playwright,screen_pixel_depth,0.2441
+Playwright,user-agent,0.9803
+Playwright,audioFormats,0.0
+Playwright,screen_availWidth,0.9488
+Playwright,navigator_properties,0.0
+Playwright,permissions_microphone,0.4276
+Playwright,webDriverValue,0.8433
+Playwright,sec-fetch-dest,0.0
+Playwright,screen_availTop,0.2614
+Playwright,window_outer_width,0.9744
+Playwright,battery_ondischargingtimechange,0.0
+Playwright,audioFormats_audio/aac,0.5
+Playwright,x-forwarded-proto,0.0
+Playwright,gyroscope,0.5
+Playwright,accept,0.0394
+Playwright,userAgentData_platformVersion,0.174
+Playwright,screen_availHeight,1.0
+Playwright,languages-js,0.9512
+Playwright,audioFormats_audio/mpeg,0.5
+Playwright,platform,0.2717
+Playwright,sec-ch-ua-mobile,0.5
+Playwright,timezone,0.4087
+Playwright,accept-language,0.5858
+Playwright,sec-ch-ua-form-factors,0.0394
+Playwright,content-type,0.0
+Playwright,userAgentData_platform,0.5914
+Playwright,detailChrome_webstore,0.5
+Playwright,audioContext,0.0
+Playwright,signature-agent,0.0512
+Playwright,permissions_payment-handler,0.6488
+Playwright,navigator_properties_total,0.6661
+Playwright,detailChrome_connect,0.5453
+Playwright,sec-fetch-user,0.0
+Playwright,battery_onlevelchange,0.0
+Playwright,etsl,0.5
+Playwright,vendor,0.5
+Playwright,client_width,0.9047
+Playwright,resOverflow_errorName,0.5
+Playwright,permissions_clipboard-read,0.6488
+Playwright,window_inner_height,0.8811
+Playwright,connection-js_downlink,0.9148
+Playwright,window_screenX,0.3535
+Playwright,cookie_behavior,0.4276
+Puppeteer,iframeChrome,0.4959
+Puppeteer,userAgentData_mobile,0.5398
+Puppeteer,chromeRuntimeProps,0.4722
+Puppeteer,audioContext_sampleRate,0.4422
+Puppeteer,permissions_midi,0.4272
+Puppeteer,host,0.0
+Puppeteer,permissions_geolocation,0.4666
+Puppeteer,dnt,0.0393
+Puppeteer,priority,0.7021
+Puppeteer,signature,0.0511
+Puppeteer,screen_left,0.4998
+Puppeteer,doNotTrack,0.0661
+Puppeteer,permissions_background-sync,0.6474
+Puppeteer,detailChrome_loadTimes,0.5217
+Puppeteer,sec-fetch-mode,0.0
+Puppeteer,battery_onchargingchange,0.0
+Puppeteer,origin,0.8998
+Puppeteer,screen_availLeft,0.2203
+Puppeteer,content-length,0.9927
+Puppeteer,connection-js_saveData,0.4959
+Puppeteer,webGLRendererException,0.6944
+Puppeteer,connection,0.0
+Puppeteer,multiMediaDevices_micros,0.2219
+Puppeteer,cf-visitor,0.0
+Puppeteer,client_height,0.9442
+Puppeteer,buildID,0.4959
+Puppeteer,cf-ray,0.0
+Puppeteer,detailChrome,0.4959
+Puppeteer,sec-ch-ua-platform,0.6596
+Puppeteer,detailChrome_csi,0.5217
+Puppeteer,permissions_persistent-storage,0.4272
+Puppeteer,userAgentData_wow64,0.5398
+Puppeteer,keyboard,0.7097
+Puppeteer,userAgentData_architecture,0.5718
+Puppeteer,audioFormats_audio/x-mpegurl,0.4964
+Puppeteer,detailChrome_app,0.5217
+Puppeteer,resOverflow,0.0
+Puppeteer,audioFormats_audio/flac,0.4959
+Puppeteer,productSub,0.4959
+Puppeteer,connection-js_type,0.1023
+Puppeteer,connection-js_effectiveType,0.5094
+Puppeteer,accept-encoding,0.0393
+Puppeteer,screen_depth,0.2439
+Puppeteer,permissions_magnetometer,0.6474
+Puppeteer,cf-connecting-ip,0.0
+Puppeteer,screen_width,0.3635
+Puppeteer,referer,0.0393
+Puppeteer,signature-input,0.0511
+Puppeteer,screen_top,0.4959
+Puppeteer,userAgentData_fullVersionList,0.6989
+Puppeteer,window_device_pixel_ratio,0.1518
+Puppeteer,battery,0.4959
+Puppeteer,resOverflow_depth,0.9718
+Puppeteer,battery_onchargingtimechange,0.0
+Puppeteer,userAgentData_brands,0.6989
+Puppeteer,screen_height,0.3635
+Puppeteer,userAgentData_formFactors,0.5268
+Puppeteer,sec-ch-ua,0.9334
+Puppeteer,upgrade-insecure-requests,0.0
+Puppeteer,multiMediaDevices_speakers,0.4992
+Puppeteer,permissions_push,0.4959
+Puppeteer,permissions_notifications,0.5893
+Puppeteer,permissions_clipboard-write,0.6474
+Puppeteer,userAgentData,0.6682
+Puppeteer,hardwareConcurrency,0.3533
+Puppeteer,battery_chargingTime,0.5613
+Puppeteer,battery_charging,0.5511
+Puppeteer,battery_dischargingTime,0.0983
+Puppeteer,navigator_properties_hash,0.6635
+Puppeteer,audioFormats_audio/3gpp,0.1621
+Puppeteer,cf-ipcountry,0.0
+Puppeteer,userAgentData_bitness,0.5268
+Puppeteer,plugins,0.3312
+Puppeteer,window_outer_height,0.9591
+Puppeteer,deviceMemory,0.4963
+Puppeteer,battery_level,0.6644
+Puppeteer,sec-fetch-site,0.0
+Puppeteer,resOverflow_errorStacklength,0.889
+Puppeteer,window_inner_width,0.8308
+Puppeteer,connection-js,0.4959
+Puppeteer,alt-used,0.0149
+Puppeteer,userAgent-js,0.9607
+Puppeteer,detailChrome_sendMessage,0.5416
+Puppeteer,hasChrome,0.4959
+Puppeteer,connection-js_rtt,0.9031
+Puppeteer,permissions,0.0
+Puppeteer,connection-js_downlinkMax,0.0
+Puppeteer,cdn-loop,0.0
+Puppeteer,audioContext_state,0.4194
+Puppeteer,multiMediaDevices,0.0024
+Puppeteer,detailChrome_runtime,0.5416
+Puppeteer,"videoFormats_video/ogg; codecs=""opus""",0.4959
+Puppeteer,permissions_camera,0.4272
+Puppeteer,multiMediaDevices_webcams,0.2337
+Puppeteer,permissions_accelerometer,0.6474
+Puppeteer,resOverflow_errorMessage,0.4959
+Puppeteer,userAgentData_model,0.0
+Puppeteer,videoFormats,0.0
+Puppeteer,screen_pixel_depth,0.2439
+Puppeteer,user-agent,0.9607
+Puppeteer,audioFormats,0.0
+Puppeteer,screen_availWidth,0.4673
+Puppeteer,navigator_properties,0.0
+Puppeteer,permissions_microphone,0.4272
+Puppeteer,webDriverValue,0.8426
+Puppeteer,sec-fetch-dest,0.0
+Puppeteer,screen_availTop,0.2612
+Puppeteer,window_outer_width,0.9591
+Puppeteer,battery_ondischargingtimechange,0.0
+Puppeteer,audioFormats_audio/aac,0.4959
+Puppeteer,x-forwarded-proto,0.0
+Puppeteer,gyroscope,0.4959
+Puppeteer,accept,0.0393
+Puppeteer,userAgentData_platformVersion,0.1739
+Puppeteer,screen_availHeight,0.5618
+Puppeteer,languages-js,0.5796
+Puppeteer,audioFormats_audio/mpeg,0.4959
+Puppeteer,platform,0.2714
+Puppeteer,sec-ch-ua-mobile,0.4959
+Puppeteer,timezone,0.4083
+Puppeteer,accept-language,0.2187
+Puppeteer,sec-ch-ua-form-factors,0.0393
+Puppeteer,content-type,0.0
+Puppeteer,userAgentData_platform,0.5911
+Puppeteer,detailChrome_webstore,0.4959
+Puppeteer,audioContext,0.0
+Puppeteer,signature-agent,0.0511
+Puppeteer,permissions_payment-handler,0.6474
+Puppeteer,navigator_properties_total,0.6635
+Puppeteer,detailChrome_connect,0.5416
+Puppeteer,sec-fetch-user,0.0
+Puppeteer,battery_onlevelchange,0.0
+Puppeteer,etsl,0.4959
+Puppeteer,vendor,0.4959
+Puppeteer,client_width,0.9044
+Puppeteer,resOverflow_errorName,0.4959
+Puppeteer,permissions_clipboard-read,0.6474
+Puppeteer,window_inner_height,0.8804
+Puppeteer,connection-js_downlink,0.9154
+Puppeteer,window_screenX,0.3533
+Puppeteer,cookie_behavior,0.4272
+Crawl4AI,iframeChrome,0.128
+Crawl4AI,userAgentData_mobile,0.4842
+Crawl4AI,chromeRuntimeProps,0.4739
+Crawl4AI,audioContext_sampleRate,0.6121
+Crawl4AI,permissions_midi,0.9129
+Crawl4AI,host,0.0
+Crawl4AI,permissions_geolocation,0.9129
+Crawl4AI,dnt,0.0379
+Crawl4AI,priority,0.5212
+Crawl4AI,signature,0.0492
+Crawl4AI,screen_left,0.128
+Crawl4AI,doNotTrack,0.0636
+Crawl4AI,permissions_background-sync,0.7848
+Crawl4AI,detailChrome_loadTimes,0.1773
+Crawl4AI,sec-fetch-mode,0.0
+Crawl4AI,battery_onchargingchange,0.0
+Crawl4AI,origin,0.9
+Crawl4AI,screen_availLeft,0.2121
+Crawl4AI,content-length,0.9983
+Crawl4AI,connection-js_saveData,0.128
+Crawl4AI,webGLRendererException,0.5442
+Crawl4AI,connection,0.0
+Crawl4AI,multiMediaDevices_micros,0.2136
+Crawl4AI,cf-visitor,0.0
+Crawl4AI,client_height,0.9235
+Crawl4AI,buildID,0.128
+Crawl4AI,cf-ray,0.0
+Crawl4AI,detailChrome,0.128
+Crawl4AI,sec-ch-ua-platform,0.8944
+Crawl4AI,detailChrome_csi,0.1773
+Crawl4AI,permissions_persistent-storage,0.9129
+Crawl4AI,userAgentData_wow64,0.4842
+Crawl4AI,keyboard,0.8182
+Crawl4AI,userAgentData_architecture,0.5452
+Crawl4AI,audioFormats_audio/x-mpegurl,0.1773
+Crawl4AI,detailChrome_app,0.1773
+Crawl4AI,resOverflow,0.0
+Crawl4AI,audioFormats_audio/flac,0.128
+Crawl4AI,productSub,0.128
+Crawl4AI,connection-js_type,0.0985
+Crawl4AI,connection-js_effectiveType,0.1538
+Crawl4AI,accept-encoding,0.0379
+Crawl4AI,screen_depth,0.2348
+Crawl4AI,permissions_magnetometer,0.7848
+Crawl4AI,cf-connecting-ip,0.0
+Crawl4AI,screen_width,0.9242
+Crawl4AI,referer,0.0379
+Crawl4AI,signature-input,0.0492
+Crawl4AI,screen_top,0.128
+Crawl4AI,userAgentData_fullVersionList,0.7883
+Crawl4AI,window_device_pixel_ratio,0.1462
+Crawl4AI,battery,0.128
+Crawl4AI,resOverflow_depth,0.9433
+Crawl4AI,battery_onchargingtimechange,0.0
+Crawl4AI,userAgentData_brands,0.7874
+Crawl4AI,screen_height,0.9242
+Crawl4AI,userAgentData_formFactors,0.4906
+Crawl4AI,sec-ch-ua,0.9621
+Crawl4AI,upgrade-insecure-requests,0.0
+Crawl4AI,multiMediaDevices_speakers,0.3333
+Crawl4AI,permissions_push,0.128
+Crawl4AI,permissions_notifications,0.9621
+Crawl4AI,permissions_clipboard-write,0.7848
+Crawl4AI,userAgentData,0.5252
+Crawl4AI,hardwareConcurrency,0.3402
+Crawl4AI,battery_chargingTime,0.9219
+Crawl4AI,battery_charging,0.4006
+Crawl4AI,battery_dischargingTime,0.3228
+Crawl4AI,navigator_properties_hash,0.9621
+Crawl4AI,audioFormats_audio/3gpp,0.1561
+Crawl4AI,cf-ipcountry,0.0
+Crawl4AI,userAgentData_bitness,0.4906
+Crawl4AI,plugins,0.9621
+Crawl4AI,window_outer_height,0.9242
+Crawl4AI,deviceMemory,0.1288
+Crawl4AI,battery_level,0.9965
+Crawl4AI,sec-fetch-site,0.0
+Crawl4AI,resOverflow_errorStacklength,0.7617
+Crawl4AI,window_inner_width,0.9242
+Crawl4AI,connection-js,0.128
+Crawl4AI,alt-used,0.0144
+Crawl4AI,userAgent-js,1.0
+Crawl4AI,detailChrome_sendMessage,0.2152
+Crawl4AI,hasChrome,0.128
+Crawl4AI,connection-js_rtt,0.7136
+Crawl4AI,permissions,0.0
+Crawl4AI,connection-js_downlinkMax,0.0
+Crawl4AI,cdn-loop,0.0
+Crawl4AI,audioContext_state,0.4377
+Crawl4AI,multiMediaDevices,0.0023
+Crawl4AI,detailChrome_runtime,0.2152
+Crawl4AI,"videoFormats_video/ogg; codecs=""opus""",0.128
+Crawl4AI,permissions_camera,0.9129
+Crawl4AI,multiMediaDevices_webcams,0.225
+Crawl4AI,permissions_accelerometer,0.7848
+Crawl4AI,resOverflow_errorMessage,0.128
+Crawl4AI,userAgentData_model,0.0
+Crawl4AI,videoFormats,0.0
+Crawl4AI,screen_pixel_depth,0.2348
+Crawl4AI,user-agent,1.0
+Crawl4AI,audioFormats,0.0
+Crawl4AI,screen_availWidth,0.9242
+Crawl4AI,navigator_properties,0.0
+Crawl4AI,permissions_microphone,0.9129
+Crawl4AI,webDriverValue,0.9129
+Crawl4AI,sec-fetch-dest,0.0
+Crawl4AI,screen_availTop,0.2515
+Crawl4AI,window_outer_width,0.9242
+Crawl4AI,battery_ondischargingtimechange,0.0
+Crawl4AI,audioFormats_audio/aac,0.128
+Crawl4AI,x-forwarded-proto,0.0
+Crawl4AI,gyroscope,0.128
+Crawl4AI,accept,0.0379
+Crawl4AI,userAgentData_platformVersion,0.6579
+Crawl4AI,screen_availHeight,0.9242
+Crawl4AI,languages-js,0.2788
+Crawl4AI,audioFormats_audio/mpeg,0.128
+Crawl4AI,platform,0.2614
+Crawl4AI,sec-ch-ua-mobile,0.128
+Crawl4AI,timezone,0.3932
+Crawl4AI,accept-language,0.2106
+Crawl4AI,sec-ch-ua-form-factors,0.0379
+Crawl4AI,content-type,0.0
+Crawl4AI,userAgentData_platform,0.7937
+Crawl4AI,detailChrome_webstore,0.128
+Crawl4AI,audioContext,0.0
+Crawl4AI,signature-agent,0.0492
+Crawl4AI,permissions_payment-handler,0.7848
+Crawl4AI,navigator_properties_total,0.9129
+Crawl4AI,detailChrome_connect,0.2152
+Crawl4AI,sec-fetch-user,0.0
+Crawl4AI,battery_onlevelchange,0.0
+Crawl4AI,etsl,0.128
+Crawl4AI,vendor,0.128
+Crawl4AI,client_width,0.9603
+Crawl4AI,resOverflow_errorName,0.128
+Crawl4AI,permissions_clipboard-read,0.7848
+Crawl4AI,window_inner_height,0.9242
+Crawl4AI,connection-js_downlink,0.9154
+Crawl4AI,window_screenX,0.9242
+Crawl4AI,cookie_behavior,0.4114
+Crawl4AI_Stealth,iframeChrome,0.128
+Crawl4AI_Stealth,userAgentData_mobile,0.6015
+Crawl4AI_Stealth,chromeRuntimeProps,0.653
+Crawl4AI_Stealth,audioContext_sampleRate,0.6121
+Crawl4AI_Stealth,permissions_midi,0.9129
+Crawl4AI_Stealth,host,0.0
+Crawl4AI_Stealth,permissions_geolocation,0.9129
+Crawl4AI_Stealth,dnt,1.0
+Crawl4AI_Stealth,priority,0.5212
+Crawl4AI_Stealth,signature,0.0492
+Crawl4AI_Stealth,screen_left,0.128
+Crawl4AI_Stealth,doNotTrack,0.9882
+Crawl4AI_Stealth,permissions_background-sync,0.7848
+Crawl4AI_Stealth,detailChrome_loadTimes,0.1773
+Crawl4AI_Stealth,sec-fetch-mode,0.0
+Crawl4AI_Stealth,battery_onchargingchange,0.0
+Crawl4AI_Stealth,origin,0.9
+Crawl4AI_Stealth,screen_availLeft,0.2121
+Crawl4AI_Stealth,content-length,0.9982
+Crawl4AI_Stealth,connection-js_saveData,0.128
+Crawl4AI_Stealth,webGLRendererException,0.8424
+Crawl4AI_Stealth,connection,0.0
+Crawl4AI_Stealth,multiMediaDevices_micros,0.2136
+Crawl4AI_Stealth,cf-visitor,0.0
+Crawl4AI_Stealth,client_height,0.9205
+Crawl4AI_Stealth,buildID,0.128
+Crawl4AI_Stealth,cf-ray,0.0
+Crawl4AI_Stealth,detailChrome,0.128
+Crawl4AI_Stealth,sec-ch-ua-platform,1.0
+Crawl4AI_Stealth,detailChrome_csi,0.1773
+Crawl4AI_Stealth,permissions_persistent-storage,0.9129
+Crawl4AI_Stealth,userAgentData_wow64,0.6015
+Crawl4AI_Stealth,keyboard,0.8182
+Crawl4AI_Stealth,userAgentData_architecture,0.6015
+Crawl4AI_Stealth,audioFormats_audio/x-mpegurl,0.1773
+Crawl4AI_Stealth,detailChrome_app,0.1773
+Crawl4AI_Stealth,resOverflow,0.0
+Crawl4AI_Stealth,audioFormats_audio/flac,0.128
+Crawl4AI_Stealth,productSub,0.128
+Crawl4AI_Stealth,connection-js_type,0.0985
+Crawl4AI_Stealth,connection-js_effectiveType,0.1538
+Crawl4AI_Stealth,accept-encoding,1.0
+Crawl4AI_Stealth,screen_depth,0.2348
+Crawl4AI_Stealth,permissions_magnetometer,0.7848
+Crawl4AI_Stealth,cf-connecting-ip,0.0
+Crawl4AI_Stealth,screen_width,0.9242
+Crawl4AI_Stealth,referer,1.0
+Crawl4AI_Stealth,signature-input,0.0492
+Crawl4AI_Stealth,screen_top,0.128
+Crawl4AI_Stealth,userAgentData_fullVersionList,0.5697
+Crawl4AI_Stealth,window_device_pixel_ratio,0.1462
+Crawl4AI_Stealth,battery,0.128
+Crawl4AI_Stealth,resOverflow_depth,0.9482
+Crawl4AI_Stealth,battery_onchargingtimechange,0.0
+Crawl4AI_Stealth,userAgentData_brands,0.6015
+Crawl4AI_Stealth,screen_height,0.9242
+Crawl4AI_Stealth,userAgentData_formFactors,0.5697
+Crawl4AI_Stealth,sec-ch-ua,1.0
+Crawl4AI_Stealth,upgrade-insecure-requests,0.0
+Crawl4AI_Stealth,multiMediaDevices_speakers,0.3333
+Crawl4AI_Stealth,permissions_push,0.128
+Crawl4AI_Stealth,permissions_notifications,0.9621
+Crawl4AI_Stealth,permissions_clipboard-write,0.7848
+Crawl4AI_Stealth,userAgentData,0.8008
+Crawl4AI_Stealth,hardwareConcurrency,0.3402
+Crawl4AI_Stealth,battery_chargingTime,0.5593
+Crawl4AI_Stealth,battery_charging,0.2333
+Crawl4AI_Stealth,battery_dischargingTime,0.0947
+Crawl4AI_Stealth,navigator_properties_hash,0.9621
+Crawl4AI_Stealth,audioFormats_audio/3gpp,0.1561
+Crawl4AI_Stealth,cf-ipcountry,0.0
+Crawl4AI_Stealth,userAgentData_bitness,0.5697
+Crawl4AI_Stealth,plugins,0.9621
+Crawl4AI_Stealth,window_outer_height,0.9242
+Crawl4AI_Stealth,deviceMemory,0.1288
+Crawl4AI_Stealth,battery_level,0.8609
+Crawl4AI_Stealth,sec-fetch-site,0.0
+Crawl4AI_Stealth,resOverflow_errorStacklength,0.7747
+Crawl4AI_Stealth,window_inner_width,0.9242
+Crawl4AI_Stealth,connection-js,0.128
+Crawl4AI_Stealth,alt-used,0.0144
+Crawl4AI_Stealth,userAgent-js,1.0
+Crawl4AI_Stealth,detailChrome_sendMessage,0.9508
+Crawl4AI_Stealth,hasChrome,0.128
+Crawl4AI_Stealth,connection-js_rtt,0.8226
+Crawl4AI_Stealth,permissions,0.0
+Crawl4AI_Stealth,connection-js_downlinkMax,0.0
+Crawl4AI_Stealth,cdn-loop,0.0
+Crawl4AI_Stealth,audioContext_state,0.4377
+Crawl4AI_Stealth,multiMediaDevices,0.0023
+Crawl4AI_Stealth,detailChrome_runtime,0.9508
+Crawl4AI_Stealth,"videoFormats_video/ogg; codecs=""opus""",0.128
+Crawl4AI_Stealth,permissions_camera,0.9129
+Crawl4AI_Stealth,multiMediaDevices_webcams,0.225
+Crawl4AI_Stealth,permissions_accelerometer,0.7848
+Crawl4AI_Stealth,resOverflow_errorMessage,0.128
+Crawl4AI_Stealth,userAgentData_model,0.0
+Crawl4AI_Stealth,videoFormats,0.0
+Crawl4AI_Stealth,screen_pixel_depth,0.2348
+Crawl4AI_Stealth,user-agent,1.0
+Crawl4AI_Stealth,audioFormats,0.0
+Crawl4AI_Stealth,screen_availWidth,0.9242
+Crawl4AI_Stealth,navigator_properties,0.0
+Crawl4AI_Stealth,permissions_microphone,0.9129
+Crawl4AI_Stealth,webDriverValue,0.9129
+Crawl4AI_Stealth,sec-fetch-dest,0.0
+Crawl4AI_Stealth,screen_availTop,0.2515
+Crawl4AI_Stealth,window_outer_width,0.9242
+Crawl4AI_Stealth,battery_ondischargingtimechange,0.0
+Crawl4AI_Stealth,audioFormats_audio/aac,0.128
+Crawl4AI_Stealth,x-forwarded-proto,0.0
+Crawl4AI_Stealth,gyroscope,0.128
+Crawl4AI_Stealth,accept,1.0
+Crawl4AI_Stealth,userAgentData_platformVersion,0.1674
+Crawl4AI_Stealth,screen_availHeight,0.9242
+Crawl4AI_Stealth,languages-js,0.2788
+Crawl4AI_Stealth,audioFormats_audio/mpeg,0.128
+Crawl4AI_Stealth,platform,0.9653
+Crawl4AI_Stealth,sec-ch-ua-mobile,0.128
+Crawl4AI_Stealth,timezone,0.3932
+Crawl4AI_Stealth,accept-language,1.0
+Crawl4AI_Stealth,sec-ch-ua-form-factors,1.0
+Crawl4AI_Stealth,content-type,0.0
+Crawl4AI_Stealth,userAgentData_platform,0.6015
+Crawl4AI_Stealth,detailChrome_webstore,0.128
+Crawl4AI_Stealth,audioContext,0.0
+Crawl4AI_Stealth,signature-agent,0.0492
+Crawl4AI_Stealth,permissions_payment-handler,0.7848
+Crawl4AI_Stealth,navigator_properties_total,0.9129
+Crawl4AI_Stealth,detailChrome_connect,0.9508
+Crawl4AI_Stealth,sec-fetch-user,0.0
+Crawl4AI_Stealth,battery_onlevelchange,0.0
+Crawl4AI_Stealth,etsl,0.128
+Crawl4AI_Stealth,vendor,0.128
+Crawl4AI_Stealth,client_width,0.9621
+Crawl4AI_Stealth,resOverflow_errorName,0.128
+Crawl4AI_Stealth,permissions_clipboard-read,0.7848
+Crawl4AI_Stealth,window_inner_height,0.9242
+Crawl4AI_Stealth,connection-js_downlink,0.9168
+Crawl4AI_Stealth,window_screenX,0.9242
+Crawl4AI_Stealth,cookie_behavior,0.4114
+Crawl4AI_Undetected_Browser,iframeChrome,0.128
+Crawl4AI_Undetected_Browser,userAgentData_mobile,0.4647
+Crawl4AI_Undetected_Browser,chromeRuntimeProps,0.44
+Crawl4AI_Undetected_Browser,audioContext_sampleRate,0.6121
+Crawl4AI_Undetected_Browser,permissions_midi,0.4114
+Crawl4AI_Undetected_Browser,host,0.0
+Crawl4AI_Undetected_Browser,permissions_geolocation,0.4492
+Crawl4AI_Undetected_Browser,dnt,0.0379
+Crawl4AI_Undetected_Browser,priority,0.5212
+Crawl4AI_Undetected_Browser,signature,0.0492
+Crawl4AI_Undetected_Browser,screen_left,0.128
+Crawl4AI_Undetected_Browser,doNotTrack,0.0636
+Crawl4AI_Undetected_Browser,permissions_background-sync,0.5394
+Crawl4AI_Undetected_Browser,detailChrome_loadTimes,0.1773
+Crawl4AI_Undetected_Browser,sec-fetch-mode,0.0
+Crawl4AI_Undetected_Browser,battery_onchargingchange,0.0
+Crawl4AI_Undetected_Browser,origin,0.9
+Crawl4AI_Undetected_Browser,screen_availLeft,0.2121
+Crawl4AI_Undetected_Browser,content-length,1.0
+Crawl4AI_Undetected_Browser,connection-js_saveData,0.128
+Crawl4AI_Undetected_Browser,webGLRendererException,0.5149
+Crawl4AI_Undetected_Browser,connection,0.0
+Crawl4AI_Undetected_Browser,multiMediaDevices_micros,0.2136
+Crawl4AI_Undetected_Browser,cf-visitor,0.0
+Crawl4AI_Undetected_Browser,client_height,0.932
+Crawl4AI_Undetected_Browser,buildID,0.128
+Crawl4AI_Undetected_Browser,cf-ray,0.0
+Crawl4AI_Undetected_Browser,detailChrome,0.128
+Crawl4AI_Undetected_Browser,sec-ch-ua-platform,0.4402
+Crawl4AI_Undetected_Browser,detailChrome_csi,0.1773
+Crawl4AI_Undetected_Browser,permissions_persistent-storage,0.4114
+Crawl4AI_Undetected_Browser,userAgentData_wow64,0.4647
+Crawl4AI_Undetected_Browser,keyboard,0.8182
+Crawl4AI_Undetected_Browser,userAgentData_architecture,0.5398
+Crawl4AI_Undetected_Browser,audioFormats_audio/x-mpegurl,0.1773
+Crawl4AI_Undetected_Browser,detailChrome_app,0.1773
+Crawl4AI_Undetected_Browser,resOverflow,0.0
+Crawl4AI_Undetected_Browser,audioFormats_audio/flac,0.128
+Crawl4AI_Undetected_Browser,productSub,0.128
+Crawl4AI_Undetected_Browser,connection-js_type,0.0985
+Crawl4AI_Undetected_Browser,connection-js_effectiveType,0.1538
+Crawl4AI_Undetected_Browser,accept-encoding,0.0379
+Crawl4AI_Undetected_Browser,screen_depth,0.2348
+Crawl4AI_Undetected_Browser,permissions_magnetometer,0.5394
+Crawl4AI_Undetected_Browser,cf-connecting-ip,0.0
+Crawl4AI_Undetected_Browser,screen_width,0.9242
+Crawl4AI_Undetected_Browser,referer,0.0379
+Crawl4AI_Undetected_Browser,signature-input,0.0492
+Crawl4AI_Undetected_Browser,screen_top,0.128
+Crawl4AI_Undetected_Browser,userAgentData_fullVersionList,0.8472
+Crawl4AI_Undetected_Browser,window_device_pixel_ratio,0.1462
+Crawl4AI_Undetected_Browser,battery,0.128
+Crawl4AI_Undetected_Browser,resOverflow_depth,0.9391
+Crawl4AI_Undetected_Browser,battery_onchargingtimechange,0.0
+Crawl4AI_Undetected_Browser,userAgentData_brands,0.8387
+Crawl4AI_Undetected_Browser,screen_height,0.9242
+Crawl4AI_Undetected_Browser,userAgentData_formFactors,0.48
+Crawl4AI_Undetected_Browser,sec-ch-ua,0.9621
+Crawl4AI_Undetected_Browser,upgrade-insecure-requests,0.0
+Crawl4AI_Undetected_Browser,multiMediaDevices_speakers,0.3333
+Crawl4AI_Undetected_Browser,permissions_push,0.128
+Crawl4AI_Undetected_Browser,permissions_notifications,0.5674
+Crawl4AI_Undetected_Browser,permissions_clipboard-write,0.5394
+Crawl4AI_Undetected_Browser,userAgentData,0.4913
+Crawl4AI_Undetected_Browser,hardwareConcurrency,0.3402
+Crawl4AI_Undetected_Browser,battery_chargingTime,0.3818
+Crawl4AI_Undetected_Browser,battery_charging,0.2333
+Crawl4AI_Undetected_Browser,battery_dischargingTime,0.0947
+Crawl4AI_Undetected_Browser,navigator_properties_hash,0.4402
+Crawl4AI_Undetected_Browser,audioFormats_audio/3gpp,0.1561
+Crawl4AI_Undetected_Browser,cf-ipcountry,0.0
+Crawl4AI_Undetected_Browser,userAgentData_bitness,0.48
+Crawl4AI_Undetected_Browser,plugins,0.3189
+Crawl4AI_Undetected_Browser,window_outer_height,0.9242
+Crawl4AI_Undetected_Browser,deviceMemory,0.1288
+Crawl4AI_Undetected_Browser,battery_level,0.4589
+Crawl4AI_Undetected_Browser,sec-fetch-site,0.0
+Crawl4AI_Undetected_Browser,resOverflow_errorStacklength,0.7462
+Crawl4AI_Undetected_Browser,window_inner_width,0.9242
+Crawl4AI_Undetected_Browser,connection-js,0.128
+Crawl4AI_Undetected_Browser,alt-used,0.0144
+Crawl4AI_Undetected_Browser,userAgent-js,1.0
+Crawl4AI_Undetected_Browser,detailChrome_sendMessage,0.2152
+Crawl4AI_Undetected_Browser,hasChrome,0.128
+Crawl4AI_Undetected_Browser,connection-js_rtt,0.7029
+Crawl4AI_Undetected_Browser,permissions,0.0
+Crawl4AI_Undetected_Browser,connection-js_downlinkMax,0.0
+Crawl4AI_Undetected_Browser,cdn-loop,0.0
+Crawl4AI_Undetected_Browser,audioContext_state,0.4377
+Crawl4AI_Undetected_Browser,multiMediaDevices,0.0023
+Crawl4AI_Undetected_Browser,detailChrome_runtime,0.2152
+Crawl4AI_Undetected_Browser,"videoFormats_video/ogg; codecs=""opus""",0.128
+Crawl4AI_Undetected_Browser,permissions_camera,0.4114
+Crawl4AI_Undetected_Browser,multiMediaDevices_webcams,0.225
+Crawl4AI_Undetected_Browser,permissions_accelerometer,0.5394
+Crawl4AI_Undetected_Browser,resOverflow_errorMessage,0.128
+Crawl4AI_Undetected_Browser,userAgentData_model,0.0
+Crawl4AI_Undetected_Browser,videoFormats,0.0
+Crawl4AI_Undetected_Browser,screen_pixel_depth,0.2348
+Crawl4AI_Undetected_Browser,user-agent,1.0
+Crawl4AI_Undetected_Browser,audioFormats,0.0
+Crawl4AI_Undetected_Browser,screen_availWidth,0.9242
+Crawl4AI_Undetected_Browser,navigator_properties,0.0
+Crawl4AI_Undetected_Browser,permissions_microphone,0.4114
+Crawl4AI_Undetected_Browser,webDriverValue,0.3515
+Crawl4AI_Undetected_Browser,sec-fetch-dest,0.0
+Crawl4AI_Undetected_Browser,screen_availTop,0.2515
+Crawl4AI_Undetected_Browser,window_outer_width,0.9242
+Crawl4AI_Undetected_Browser,battery_ondischargingtimechange,0.0
+Crawl4AI_Undetected_Browser,audioFormats_audio/aac,0.128
+Crawl4AI_Undetected_Browser,x-forwarded-proto,0.0
+Crawl4AI_Undetected_Browser,gyroscope,0.128
+Crawl4AI_Undetected_Browser,accept,0.0379
+Crawl4AI_Undetected_Browser,userAgentData_platformVersion,0.1674
+Crawl4AI_Undetected_Browser,screen_availHeight,0.9242
+Crawl4AI_Undetected_Browser,languages-js,0.9061
+Crawl4AI_Undetected_Browser,audioFormats_audio/mpeg,0.128
+Crawl4AI_Undetected_Browser,platform,0.2614
+Crawl4AI_Undetected_Browser,sec-ch-ua-mobile,0.128
+Crawl4AI_Undetected_Browser,timezone,0.3932
+Crawl4AI_Undetected_Browser,accept-language,0.2106
+Crawl4AI_Undetected_Browser,sec-ch-ua-form-factors,0.0379
+Crawl4AI_Undetected_Browser,content-type,0.0
+Crawl4AI_Undetected_Browser,userAgentData_platform,0.5853
+Crawl4AI_Undetected_Browser,detailChrome_webstore,0.128
+Crawl4AI_Undetected_Browser,audioContext,0.0
+Crawl4AI_Undetected_Browser,signature-agent,0.0492
+Crawl4AI_Undetected_Browser,permissions_payment-handler,0.5394
+Crawl4AI_Undetected_Browser,navigator_properties_total,0.4402
+Crawl4AI_Undetected_Browser,detailChrome_connect,0.2152
+Crawl4AI_Undetected_Browser,sec-fetch-user,0.0
+Crawl4AI_Undetected_Browser,battery_onlevelchange,0.0
+Crawl4AI_Undetected_Browser,etsl,0.128
+Crawl4AI_Undetected_Browser,vendor,0.128
+Crawl4AI_Undetected_Browser,client_width,0.9603
+Crawl4AI_Undetected_Browser,resOverflow_errorName,0.128
+Crawl4AI_Undetected_Browser,permissions_clipboard-read,0.5394
+Crawl4AI_Undetected_Browser,window_inner_height,0.9242
+Crawl4AI_Undetected_Browser,connection-js_downlink,0.9101
+Crawl4AI_Undetected_Browser,window_screenX,0.9242
+Crawl4AI_Undetected_Browser,cookie_behavior,0.4114
+OpenClaw,iframeChrome,0.1339
+OpenClaw,userAgentData_mobile,0.4565
+OpenClaw,chromeRuntimeProps,0.4046
+OpenClaw,audioContext_sampleRate,0.4453
+OpenClaw,permissions_midi,0.4303
+OpenClaw,host,0.0
+OpenClaw,permissions_geolocation,0.4699
+OpenClaw,dnt,0.0396
+OpenClaw,priority,0.5452
+OpenClaw,signature,0.0515
+OpenClaw,screen_left,0.1339
+OpenClaw,doNotTrack,0.0666
+OpenClaw,permissions_background-sync,0.5642
+OpenClaw,detailChrome_loadTimes,0.1854
+OpenClaw,sec-fetch-mode,0.0
+OpenClaw,battery_onchargingchange,0.0
+OpenClaw,origin,0.894
+OpenClaw,screen_availLeft,0.4091
+OpenClaw,content-length,0.9948
+OpenClaw,connection-js_saveData,0.1339
+OpenClaw,webGLRendererException,0.4912
+OpenClaw,connection,0.0
+OpenClaw,multiMediaDevices_micros,0.2235
+OpenClaw,cf-visitor,0.0
+OpenClaw,client_height,0.9942
+OpenClaw,buildID,0.1339
+OpenClaw,cf-ray,0.0
+OpenClaw,detailChrome,0.1339
+OpenClaw,sec-ch-ua-platform,0.4604
+OpenClaw,detailChrome_csi,0.1854
+OpenClaw,permissions_persistent-storage,0.4303
+OpenClaw,userAgentData_wow64,0.4565
+OpenClaw,keyboard,0.5602
+OpenClaw,userAgentData_architecture,0.5607
+OpenClaw,audioFormats_audio/x-mpegurl,0.1854
+OpenClaw,detailChrome_app,0.1854
+OpenClaw,resOverflow,0.0
+OpenClaw,audioFormats_audio/flac,0.1339
+OpenClaw,productSub,0.1339
+OpenClaw,connection-js_type,0.103
+OpenClaw,connection-js_effectiveType,0.1609
+OpenClaw,accept-encoding,0.0396
+OpenClaw,screen_depth,0.2456
+OpenClaw,permissions_magnetometer,0.5642
+OpenClaw,cf-connecting-ip,0.0
+OpenClaw,screen_width,0.3661
+OpenClaw,referer,0.0396
+OpenClaw,signature-input,0.0515
+OpenClaw,screen_top,0.1339
+OpenClaw,userAgentData_fullVersionList,0.7996
+OpenClaw,window_device_pixel_ratio,0.1529
+OpenClaw,battery,0.1339
+OpenClaw,resOverflow_depth,0.812
+OpenClaw,battery_onchargingtimechange,0.0
+OpenClaw,userAgentData_brands,0.6922
+OpenClaw,screen_height,0.3661
+OpenClaw,userAgentData_formFactors,0.4886
+OpenClaw,sec-ch-ua,0.5468
+OpenClaw,upgrade-insecure-requests,0.0
+OpenClaw,multiMediaDevices_speakers,0.3487
+OpenClaw,permissions_push,0.1339
+OpenClaw,permissions_notifications,0.5935
+OpenClaw,permissions_clipboard-write,0.5642
+OpenClaw,userAgentData,0.4585
+OpenClaw,hardwareConcurrency,0.3558
+OpenClaw,battery_chargingTime,0.632
+OpenClaw,battery_charging,0.3653
+OpenClaw,battery_dischargingTime,0.2608
+OpenClaw,navigator_properties_hash,0.4604
+OpenClaw,audioFormats_audio/3gpp,0.1632
+OpenClaw,cf-ipcountry,0.0
+OpenClaw,userAgentData_bitness,0.4886
+OpenClaw,plugins,0.3336
+OpenClaw,window_outer_height,0.8996
+OpenClaw,deviceMemory,0.1347
+OpenClaw,battery_level,0.7178
+OpenClaw,sec-fetch-site,0.0
+OpenClaw,resOverflow_errorStacklength,0.7482
+OpenClaw,window_inner_width,0.9909
+OpenClaw,connection-js,0.1339
+OpenClaw,alt-used,0.0151
+OpenClaw,userAgent-js,0.7425
+OpenClaw,detailChrome_sendMessage,0.225
+OpenClaw,hasChrome,0.1339
+OpenClaw,connection-js_rtt,0.8968
+OpenClaw,permissions,0.0
+OpenClaw,connection-js_downlinkMax,0.0
+OpenClaw,cdn-loop,0.0
+OpenClaw,audioContext_state,0.4565
+OpenClaw,multiMediaDevices,0.0024
+OpenClaw,detailChrome_runtime,0.225
+OpenClaw,"videoFormats_video/ogg; codecs=""opus""",0.1339
+OpenClaw,permissions_camera,0.4303
+OpenClaw,multiMediaDevices_webcams,0.2353
+OpenClaw,permissions_accelerometer,0.5642
+OpenClaw,resOverflow_errorMessage,0.1339
+OpenClaw,userAgentData_model,0.0
+OpenClaw,videoFormats,0.0
+OpenClaw,screen_pixel_depth,0.2456
+OpenClaw,user-agent,0.7425
+OpenClaw,audioFormats,0.0
+OpenClaw,screen_availWidth,0.4707
+OpenClaw,navigator_properties,0.0
+OpenClaw,permissions_microphone,0.4303
+OpenClaw,webDriverValue,0.3677
+OpenClaw,sec-fetch-dest,0.0
+OpenClaw,screen_availTop,0.2631
+OpenClaw,window_outer_width,0.9056
+OpenClaw,battery_ondischargingtimechange,0.0
+OpenClaw,audioFormats_audio/aac,0.1339
+OpenClaw,x-forwarded-proto,0.0
+OpenClaw,gyroscope,0.1339
+OpenClaw,accept,0.0396
+OpenClaw,userAgentData_platformVersion,0.1751
+OpenClaw,screen_availHeight,0.5658
+OpenClaw,languages-js,0.2916
+OpenClaw,audioFormats_audio/mpeg,0.1339
+OpenClaw,platform,0.2734
+OpenClaw,sec-ch-ua-mobile,0.1339
+OpenClaw,timezone,0.4113
+OpenClaw,accept-language,0.2203
+OpenClaw,sec-ch-ua-form-factors,0.0396
+OpenClaw,content-type,0.0
+OpenClaw,userAgentData_platform,0.6237
+OpenClaw,detailChrome_webstore,0.1339
+OpenClaw,audioContext,0.0
+OpenClaw,signature-agent,0.0515
+OpenClaw,permissions_payment-handler,0.5642
+OpenClaw,navigator_properties_total,0.4604
+OpenClaw,detailChrome_connect,0.225
+OpenClaw,sec-fetch-user,0.0
+OpenClaw,battery_onlevelchange,0.0
+OpenClaw,etsl,0.1339
+OpenClaw,vendor,0.1339
+OpenClaw,client_width,0.9982
+OpenClaw,resOverflow_errorName,0.1339
+OpenClaw,permissions_clipboard-read,0.5642
+OpenClaw,window_inner_height,1.0
+OpenClaw,connection-js_downlink,0.9116
+OpenClaw,window_screenX,0.3558
+OpenClaw,cookie_behavior,0.9168
+Antropic Claude for Chrome,iframeChrome,0.1356
+Antropic Claude for Chrome,userAgentData_mobile,0.4647
+Antropic Claude for Chrome,chromeRuntimeProps,0.4303
+Antropic Claude for Chrome,audioContext_sampleRate,0.451
+Antropic Claude for Chrome,permissions_midi,0.4358
+Antropic Claude for Chrome,host,0.0
+Antropic Claude for Chrome,permissions_geolocation,0.4759
+Antropic Claude for Chrome,dnt,0.0401
+Antropic Claude for Chrome,priority,0.5522
+Antropic Claude for Chrome,signature,0.0522
+Antropic Claude for Chrome,screen_left,0.1356
+Antropic Claude for Chrome,doNotTrack,0.0674
+Antropic Claude for Chrome,permissions_background-sync,0.5714
+Antropic Claude for Chrome,detailChrome_loadTimes,0.1878
+Antropic Claude for Chrome,sec-fetch-mode,0.0
+Antropic Claude for Chrome,battery_onchargingchange,0.0
+Antropic Claude for Chrome,origin,0.8932
+Antropic Claude for Chrome,screen_availLeft,0.2454
+Antropic Claude for Chrome,content-length,0.997
+Antropic Claude for Chrome,connection-js_saveData,0.1356
+Antropic Claude for Chrome,webGLRendererException,0.5122
+Antropic Claude for Chrome,connection,0.0
+Antropic Claude for Chrome,multiMediaDevices_micros,0.2263
+Antropic Claude for Chrome,cf-visitor,0.0
+Antropic Claude for Chrome,client_height,0.9629
+Antropic Claude for Chrome,buildID,0.1356
+Antropic Claude for Chrome,cf-ray,0.0
+Antropic Claude for Chrome,detailChrome,0.1356
+Antropic Claude for Chrome,sec-ch-ua-platform,0.4663
+Antropic Claude for Chrome,detailChrome_csi,0.1878
+Antropic Claude for Chrome,permissions_persistent-storage,0.4358
+Antropic Claude for Chrome,userAgentData_wow64,0.4647
+Antropic Claude for Chrome,keyboard,0.5674
+Antropic Claude for Chrome,userAgentData_architecture,0.5523
+Antropic Claude for Chrome,audioFormats_audio/x-mpegurl,0.1878
+Antropic Claude for Chrome,detailChrome_app,0.1878
+Antropic Claude for Chrome,resOverflow,0.0
+Antropic Claude for Chrome,audioFormats_audio/flac,0.1356
+Antropic Claude for Chrome,productSub,0.1356
+Antropic Claude for Chrome,connection-js_type,0.1043
+Antropic Claude for Chrome,connection-js_effectiveType,0.2518
+Antropic Claude for Chrome,accept-encoding,0.0401
+Antropic Claude for Chrome,screen_depth,0.2488
+Antropic Claude for Chrome,permissions_magnetometer,0.5714
+Antropic Claude for Chrome,cf-connecting-ip,0.0
+Antropic Claude for Chrome,screen_width,0.3708
+Antropic Claude for Chrome,referer,0.0401
+Antropic Claude for Chrome,signature-input,0.0522
+Antropic Claude for Chrome,screen_top,0.1356
+Antropic Claude for Chrome,userAgentData_fullVersionList,0.7473
+Antropic Claude for Chrome,window_device_pixel_ratio,0.1549
+Antropic Claude for Chrome,battery,0.1356
+Antropic Claude for Chrome,resOverflow_depth,0.8364
+Antropic Claude for Chrome,battery_onchargingtimechange,0.0
+Antropic Claude for Chrome,userAgentData_brands,0.6627
+Antropic Claude for Chrome,screen_height,0.3708
+Antropic Claude for Chrome,userAgentData_formFactors,0.4859
+Antropic Claude for Chrome,sec-ch-ua,0.5538
+Antropic Claude for Chrome,upgrade-insecure-requests,0.0
+Antropic Claude for Chrome,multiMediaDevices_speakers,0.3531
+Antropic Claude for Chrome,permissions_push,0.1356
+Antropic Claude for Chrome,permissions_notifications,0.6011
+Antropic Claude for Chrome,permissions_clipboard-write,0.5714
+Antropic Claude for Chrome,userAgentData,0.4848
+Antropic Claude for Chrome,hardwareConcurrency,0.3604
+Antropic Claude for Chrome,battery_chargingTime,0.4451
+Antropic Claude for Chrome,battery_charging,0.2472
+Antropic Claude for Chrome,battery_dischargingTime,0.1003
+Antropic Claude for Chrome,navigator_properties_hash,0.4663
+Antropic Claude for Chrome,audioFormats_audio/3gpp,0.1653
+Antropic Claude for Chrome,cf-ipcountry,0.0
+Antropic Claude for Chrome,userAgentData_bitness,0.4859
+Antropic Claude for Chrome,plugins,0.3379
+Antropic Claude for Chrome,window_outer_height,0.913
+Antropic Claude for Chrome,deviceMemory,0.1364
+Antropic Claude for Chrome,battery_level,0.5119
+Antropic Claude for Chrome,sec-fetch-site,0.0
+Antropic Claude for Chrome,resOverflow_errorStacklength,0.7608
+Antropic Claude for Chrome,window_inner_width,1.0
+Antropic Claude for Chrome,connection-js,0.1356
+Antropic Claude for Chrome,alt-used,0.0152
+Antropic Claude for Chrome,userAgent-js,0.752
+Antropic Claude for Chrome,detailChrome_sendMessage,0.2279
+Antropic Claude for Chrome,hasChrome,0.1356
+Antropic Claude for Chrome,connection-js_rtt,0.7984
+Antropic Claude for Chrome,permissions,0.0
+Antropic Claude for Chrome,connection-js_downlinkMax,0.0
+Antropic Claude for Chrome,cdn-loop,0.0
+Antropic Claude for Chrome,audioContext_state,0.4385
+Antropic Claude for Chrome,multiMediaDevices,0.0024
+Antropic Claude for Chrome,detailChrome_runtime,0.2279
+Antropic Claude for Chrome,"videoFormats_video/ogg; codecs=""opus""",0.1356
+Antropic Claude for Chrome,permissions_camera,0.4358
+Antropic Claude for Chrome,multiMediaDevices_webcams,0.2384
+Antropic Claude for Chrome,permissions_accelerometer,0.5714
+Antropic Claude for Chrome,resOverflow_errorMessage,0.1356
+Antropic Claude for Chrome,userAgentData_model,0.0
+Antropic Claude for Chrome,videoFormats,0.0
+Antropic Claude for Chrome,screen_pixel_depth,0.2488
+Antropic Claude for Chrome,user-agent,0.752
+Antropic Claude for Chrome,audioFormats,0.0
+Antropic Claude for Chrome,screen_availWidth,0.4767
+Antropic Claude for Chrome,navigator_properties,0.0
+Antropic Claude for Chrome,permissions_microphone,0.4358
+Antropic Claude for Chrome,webDriverValue,0.3724
+Antropic Claude for Chrome,sec-fetch-dest,0.0
+Antropic Claude for Chrome,screen_availTop,0.2665
+Antropic Claude for Chrome,window_outer_width,0.9192
+Antropic Claude for Chrome,battery_ondischargingtimechange,0.0
+Antropic Claude for Chrome,audioFormats_audio/aac,0.1356
+Antropic Claude for Chrome,x-forwarded-proto,0.0
+Antropic Claude for Chrome,gyroscope,0.1356
+Antropic Claude for Chrome,accept,0.0401
+Antropic Claude for Chrome,userAgentData_platformVersion,0.1774
+Antropic Claude for Chrome,screen_availHeight,0.573
+Antropic Claude for Chrome,languages-js,0.992
+Antropic Claude for Chrome,audioFormats_audio/mpeg,0.1356
+Antropic Claude for Chrome,platform,0.2769
+Antropic Claude for Chrome,sec-ch-ua-mobile,0.1356
+Antropic Claude for Chrome,timezone,0.4165
+Antropic Claude for Chrome,accept-language,0.9922
+Antropic Claude for Chrome,sec-ch-ua-form-factors,0.0401
+Antropic Claude for Chrome,content-type,0.0
+Antropic Claude for Chrome,userAgentData_platform,0.6052
+Antropic Claude for Chrome,detailChrome_webstore,0.1356
+Antropic Claude for Chrome,audioContext,0.0
+Antropic Claude for Chrome,signature-agent,0.0522
+Antropic Claude for Chrome,permissions_payment-handler,0.5714
+Antropic Claude for Chrome,navigator_properties_total,0.4663
+Antropic Claude for Chrome,detailChrome_connect,0.2279
+Antropic Claude for Chrome,sec-fetch-user,0.0
+Antropic Claude for Chrome,battery_onlevelchange,0.0
+Antropic Claude for Chrome,etsl,0.1356
+Antropic Claude for Chrome,vendor,0.1356
+Antropic Claude for Chrome,client_width,1.0
+Antropic Claude for Chrome,resOverflow_errorName,0.1356
+Antropic Claude for Chrome,permissions_clipboard-read,0.5714
+Antropic Claude for Chrome,window_inner_height,0.9926
+Antropic Claude for Chrome,connection-js_downlink,0.9767
+Antropic Claude for Chrome,window_screenX,0.3604
+Antropic Claude for Chrome,cookie_behavior,1.0
+Skyvern,iframeChrome,0.1452
+Skyvern,userAgentData_mobile,0.4798
+Skyvern,chromeRuntimeProps,0.4622
+Skyvern,audioContext_sampleRate,0.6942
+Skyvern,permissions_midi,0.4665
+Skyvern,host,0.0
+Skyvern,permissions_geolocation,0.5095
+Skyvern,dnt,0.043
+Skyvern,priority,0.7311
+Skyvern,signature,0.0558
+Skyvern,screen_left,0.1452
+Skyvern,doNotTrack,0.0722
+Skyvern,permissions_background-sync,0.6117
+Skyvern,detailChrome_loadTimes,0.201
+Skyvern,sec-fetch-mode,0.0
+Skyvern,battery_onchargingchange,0.0
+Skyvern,origin,0.8929
+Skyvern,screen_availLeft,0.2405
+Skyvern,content-length,0.9998
+Skyvern,connection-js_saveData,0.1452
+Skyvern,webGLRendererException,0.5438
+Skyvern,connection,0.0
+Skyvern,multiMediaDevices_micros,0.9373
+Skyvern,cf-visitor,0.0
+Skyvern,client_height,0.9443
+Skyvern,buildID,0.1452
+Skyvern,cf-ray,0.0
+Skyvern,detailChrome,0.1452
+Skyvern,sec-ch-ua-platform,0.4991
+Skyvern,detailChrome_csi,0.201
+Skyvern,permissions_persistent-storage,0.4665
+Skyvern,userAgentData_wow64,0.4798
+Skyvern,keyboard,0.6074
+Skyvern,userAgentData_architecture,0.5547
+Skyvern,audioFormats_audio/x-mpegurl,0.201
+Skyvern,detailChrome_app,0.201
+Skyvern,resOverflow,0.0
+Skyvern,audioFormats_audio/flac,0.1452
+Skyvern,productSub,0.1452
+Skyvern,connection-js_type,0.1117
+Skyvern,connection-js_effectiveType,0.2345
+Skyvern,accept-encoding,0.043
+Skyvern,screen_depth,1.0
+Skyvern,permissions_magnetometer,0.6117
+Skyvern,cf-connecting-ip,0.0
+Skyvern,screen_width,0.3969
+Skyvern,referer,0.043
+Skyvern,signature-input,0.0558
+Skyvern,screen_top,0.1452
+Skyvern,userAgentData_fullVersionList,0.8361
+Skyvern,window_device_pixel_ratio,0.1658
+Skyvern,battery,0.1452
+Skyvern,resOverflow_depth,0.9833
+Skyvern,battery_onchargingtimechange,0.0
+Skyvern,userAgentData_brands,0.8487
+Skyvern,screen_height,0.3969
+Skyvern,userAgentData_formFactors,0.4907
+Skyvern,sec-ch-ua,1.0
+Skyvern,upgrade-insecure-requests,0.0
+Skyvern,multiMediaDevices_speakers,0.8015
+Skyvern,permissions_push,0.1452
+Skyvern,permissions_notifications,0.9442
+Skyvern,permissions_clipboard-write,0.6117
+Skyvern,userAgentData,0.5204
+Skyvern,hardwareConcurrency,0.9957
+Skyvern,battery_chargingTime,0.433
+Skyvern,battery_charging,0.2646
+Skyvern,battery_dischargingTime,0.1074
+Skyvern,navigator_properties_hash,0.4991
+Skyvern,audioFormats_audio/3gpp,1.0
+Skyvern,cf-ipcountry,0.0
+Skyvern,userAgentData_bitness,0.4907
+Skyvern,plugins,0.957
+Skyvern,window_outer_height,1.0
+Skyvern,deviceMemory,0.146
+Skyvern,battery_level,0.5095
+Skyvern,sec-fetch-site,0.0
+Skyvern,resOverflow_errorStacklength,0.7639
+Skyvern,window_inner_width,0.8969
+Skyvern,connection-js,0.1452
+Skyvern,alt-used,0.0163
+Skyvern,userAgent-js,1.0
+Skyvern,detailChrome_sendMessage,0.244
+Skyvern,hasChrome,0.1452
+Skyvern,connection-js_rtt,0.7748
+Skyvern,permissions,0.0
+Skyvern,connection-js_downlinkMax,0.0
+Skyvern,cdn-loop,0.0
+Skyvern,audioContext_state,0.6844
+Skyvern,multiMediaDevices,0.0026
+Skyvern,detailChrome_runtime,0.244
+Skyvern,"videoFormats_video/ogg; codecs=""opus""",0.1452
+Skyvern,permissions_camera,0.4665
+Skyvern,multiMediaDevices_webcams,0.9244
+Skyvern,permissions_accelerometer,0.6117
+Skyvern,resOverflow_errorMessage,0.1452
+Skyvern,userAgentData_model,0.0
+Skyvern,videoFormats,0.0
+Skyvern,screen_pixel_depth,1.0
+Skyvern,user-agent,1.0
+Skyvern,audioFormats,0.0
+Skyvern,screen_availWidth,0.5103
+Skyvern,navigator_properties,0.0
+Skyvern,permissions_microphone,0.4665
+Skyvern,webDriverValue,0.3986
+Skyvern,sec-fetch-dest,0.0
+Skyvern,screen_availTop,0.2852
+Skyvern,window_outer_width,1.0
+Skyvern,battery_ondischargingtimechange,0.0
+Skyvern,audioFormats_audio/aac,0.1452
+Skyvern,x-forwarded-proto,0.0
+Skyvern,gyroscope,0.1452
+Skyvern,accept,0.043
+Skyvern,userAgentData_platformVersion,0.2085
+Skyvern,screen_availHeight,0.6134
+Skyvern,languages-js,0.3162
+Skyvern,audioFormats_audio/mpeg,0.1452
+Skyvern,platform,0.2964
+Skyvern,sec-ch-ua-mobile,0.1452
+Skyvern,timezone,0.9296
+Skyvern,accept-language,0.2388
+Skyvern,sec-ch-ua-form-factors,0.043
+Skyvern,content-type,0.0
+Skyvern,userAgentData_platform,0.6
+Skyvern,detailChrome_webstore,0.1452
+Skyvern,audioContext,0.0
+Skyvern,signature-agent,0.0558
+Skyvern,permissions_payment-handler,0.6117
+Skyvern,navigator_properties_total,0.4991
+Skyvern,detailChrome_connect,0.244
+Skyvern,sec-fetch-user,0.0
+Skyvern,battery_onlevelchange,0.0
+Skyvern,etsl,0.1452
+Skyvern,vendor,0.1452
+Skyvern,client_width,0.9466
+Skyvern,resOverflow_errorName,0.1452
+Skyvern,permissions_clipboard-read,0.6117
+Skyvern,window_inner_height,1.0
+Skyvern,connection-js_downlink,0.9343
+Skyvern,window_screenX,0.3857
+Skyvern,cookie_behavior,1.0
+BrowserUse_CLOUD,iframeChrome,0.1361
+BrowserUse_CLOUD,userAgentData_mobile,0.4768
+BrowserUse_CLOUD,chromeRuntimeProps,0.4588
+BrowserUse_CLOUD,audioContext_sampleRate,0.4524
+BrowserUse_CLOUD,permissions_midi,0.7987
+BrowserUse_CLOUD,host,0.0
+BrowserUse_CLOUD,permissions_geolocation,0.7987
+BrowserUse_CLOUD,dnt,0.0403
+BrowserUse_CLOUD,priority,0.6852
+BrowserUse_CLOUD,signature,0.0523
+BrowserUse_CLOUD,screen_left,0.1361
+BrowserUse_CLOUD,doNotTrack,0.1429
+BrowserUse_CLOUD,permissions_background-sync,0.7987
+BrowserUse_CLOUD,detailChrome_loadTimes,0.1884
+BrowserUse_CLOUD,sec-fetch-mode,0.0
+BrowserUse_CLOUD,battery_onchargingchange,0.0
+BrowserUse_CLOUD,origin,0.893
+BrowserUse_CLOUD,screen_availLeft,0.5194
+BrowserUse_CLOUD,content-length,0.9988
+BrowserUse_CLOUD,connection-js_saveData,0.1361
+BrowserUse_CLOUD,webGLRendererException,0.5357
+BrowserUse_CLOUD,connection,0.0
+BrowserUse_CLOUD,multiMediaDevices_micros,0.2484
+BrowserUse_CLOUD,cf-visitor,0.0
+BrowserUse_CLOUD,client_height,0.929
+BrowserUse_CLOUD,buildID,0.1361
+BrowserUse_CLOUD,cf-ray,0.0
+BrowserUse_CLOUD,detailChrome,0.1361
+BrowserUse_CLOUD,sec-ch-ua-platform,0.8912
+BrowserUse_CLOUD,detailChrome_csi,0.1884
+BrowserUse_CLOUD,permissions_persistent-storage,0.7987
+BrowserUse_CLOUD,userAgentData_wow64,0.4768
+BrowserUse_CLOUD,keyboard,0.9034
+BrowserUse_CLOUD,userAgentData_architecture,0.7088
+BrowserUse_CLOUD,audioFormats_audio/x-mpegurl,0.1884
+BrowserUse_CLOUD,detailChrome_app,0.1884
+BrowserUse_CLOUD,resOverflow,0.0
+BrowserUse_CLOUD,audioFormats_audio/flac,0.1361
+BrowserUse_CLOUD,productSub,0.1361
+BrowserUse_CLOUD,connection-js_type,0.1047
+BrowserUse_CLOUD,connection-js_effectiveType,0.1634
+BrowserUse_CLOUD,accept-encoding,0.0403
+BrowserUse_CLOUD,screen_depth,0.4956
+BrowserUse_CLOUD,permissions_magnetometer,0.7987
+BrowserUse_CLOUD,cf-connecting-ip,0.0
+BrowserUse_CLOUD,screen_width,0.6424
+BrowserUse_CLOUD,referer,0.0403
+BrowserUse_CLOUD,signature-input,0.0523
+BrowserUse_CLOUD,screen_top,0.1361
+BrowserUse_CLOUD,userAgentData_fullVersionList,0.8265
+BrowserUse_CLOUD,window_device_pixel_ratio,0.5276
+BrowserUse_CLOUD,battery,0.1361
+BrowserUse_CLOUD,resOverflow_depth,0.9664
+BrowserUse_CLOUD,battery_onchargingtimechange,0.0
+BrowserUse_CLOUD,userAgentData_brands,0.6388
+BrowserUse_CLOUD,screen_height,0.6424
+BrowserUse_CLOUD,userAgentData_formFactors,0.4878
+BrowserUse_CLOUD,sec-ch-ua,0.5556
+BrowserUse_CLOUD,upgrade-insecure-requests,0.0
+BrowserUse_CLOUD,multiMediaDevices_speakers,0.3543
+BrowserUse_CLOUD,permissions_push,0.1361
+BrowserUse_CLOUD,permissions_notifications,0.7987
+BrowserUse_CLOUD,permissions_clipboard-write,0.7987
+BrowserUse_CLOUD,userAgentData,0.5133
+BrowserUse_CLOUD,hardwareConcurrency,0.8085
+BrowserUse_CLOUD,battery_chargingTime,0.5904
+BrowserUse_CLOUD,battery_charging,0.4412
+BrowserUse_CLOUD,battery_dischargingTime,0.3261
+BrowserUse_CLOUD,navigator_properties_hash,0.8992
+BrowserUse_CLOUD,audioFormats_audio/3gpp,0.1659
+BrowserUse_CLOUD,cf-ipcountry,0.0
+BrowserUse_CLOUD,userAgentData_bitness,0.4878
+BrowserUse_CLOUD,plugins,0.339
+BrowserUse_CLOUD,window_outer_height,0.9825
+BrowserUse_CLOUD,deviceMemory,0.1428
+BrowserUse_CLOUD,battery_level,0.716
+BrowserUse_CLOUD,sec-fetch-site,0.0
+BrowserUse_CLOUD,resOverflow_errorStacklength,0.8946
+BrowserUse_CLOUD,window_inner_width,0.8853
+BrowserUse_CLOUD,connection-js,0.1361
+BrowserUse_CLOUD,alt-used,0.0153
+BrowserUse_CLOUD,userAgent-js,0.9452
+BrowserUse_CLOUD,detailChrome_sendMessage,0.2287
+BrowserUse_CLOUD,hasChrome,0.1361
+BrowserUse_CLOUD,connection-js_rtt,0.9085
+BrowserUse_CLOUD,permissions,0.0
+BrowserUse_CLOUD,connection-js_downlinkMax,0.0
+BrowserUse_CLOUD,cdn-loop,0.0
+BrowserUse_CLOUD,audioContext_state,0.6739
+BrowserUse_CLOUD,multiMediaDevices,0.0024
+BrowserUse_CLOUD,detailChrome_runtime,0.2287
+BrowserUse_CLOUD,"videoFormats_video/ogg; codecs=""opus""",0.1361
+BrowserUse_CLOUD,permissions_camera,0.7987
+BrowserUse_CLOUD,multiMediaDevices_webcams,0.2768
+BrowserUse_CLOUD,permissions_accelerometer,0.7987
+BrowserUse_CLOUD,resOverflow_errorMessage,0.1361
+BrowserUse_CLOUD,userAgentData_model,0.0
+BrowserUse_CLOUD,videoFormats,0.0
+BrowserUse_CLOUD,screen_pixel_depth,0.4956
+BrowserUse_CLOUD,user-agent,0.9452
+BrowserUse_CLOUD,audioFormats,0.0
+BrowserUse_CLOUD,screen_availWidth,0.6955
+BrowserUse_CLOUD,navigator_properties,0.0
+BrowserUse_CLOUD,permissions_microphone,0.7987
+BrowserUse_CLOUD,webDriverValue,0.3736
+BrowserUse_CLOUD,sec-fetch-dest,0.0
+BrowserUse_CLOUD,screen_availTop,0.8187
+BrowserUse_CLOUD,window_outer_width,0.9782
+BrowserUse_CLOUD,battery_ondischargingtimechange,0.0
+BrowserUse_CLOUD,audioFormats_audio/aac,0.1361
+BrowserUse_CLOUD,x-forwarded-proto,0.0
+BrowserUse_CLOUD,gyroscope,0.1361
+BrowserUse_CLOUD,accept,0.0403
+BrowserUse_CLOUD,userAgentData_platformVersion,0.6878
+BrowserUse_CLOUD,screen_availHeight,0.9824
+BrowserUse_CLOUD,languages-js,0.2963
+BrowserUse_CLOUD,audioFormats_audio/mpeg,0.1361
+BrowserUse_CLOUD,platform,0.9114
+BrowserUse_CLOUD,sec-ch-ua-mobile,0.1361
+BrowserUse_CLOUD,timezone,0.8972
+BrowserUse_CLOUD,accept-language,0.2238
+BrowserUse_CLOUD,sec-ch-ua-form-factors,0.0403
+BrowserUse_CLOUD,content-type,0.0
+BrowserUse_CLOUD,userAgentData_platform,0.8131
+BrowserUse_CLOUD,detailChrome_webstore,0.1361
+BrowserUse_CLOUD,audioContext,0.0
+BrowserUse_CLOUD,signature-agent,0.0523
+BrowserUse_CLOUD,permissions_payment-handler,0.7987
+BrowserUse_CLOUD,navigator_properties_total,0.8992
+BrowserUse_CLOUD,detailChrome_connect,0.2287
+BrowserUse_CLOUD,sec-fetch-user,0.0
+BrowserUse_CLOUD,battery_onlevelchange,0.0
+BrowserUse_CLOUD,etsl,0.1361
+BrowserUse_CLOUD,vendor,0.1361
+BrowserUse_CLOUD,client_width,0.9343
+BrowserUse_CLOUD,resOverflow_errorName,0.1361
+BrowserUse_CLOUD,permissions_clipboard-read,0.7987
+BrowserUse_CLOUD,window_inner_height,0.9537
+BrowserUse_CLOUD,connection-js_downlink,0.9124
+BrowserUse_CLOUD,window_screenX,0.7094
+BrowserUse_CLOUD,cookie_behavior,0.4372
+ChatGPT Agent,iframeChrome,0.1295
+ChatGPT Agent,userAgentData_mobile,0.4777
+ChatGPT Agent,chromeRuntimeProps,0.6605
+ChatGPT Agent,audioContext_sampleRate,0.6192
+ChatGPT Agent,permissions_midi,0.9234
+ChatGPT Agent,host,0.0
+ChatGPT Agent,permissions_geolocation,0.9234
+ChatGPT Agent,dnt,0.0383
+ChatGPT Agent,priority,0.6521
+ChatGPT Agent,signature,1.0
+ChatGPT Agent,screen_left,0.1295
+ChatGPT Agent,doNotTrack,0.0644
+ChatGPT Agent,permissions_background-sync,0.7939
+ChatGPT Agent,detailChrome_loadTimes,1.0
+ChatGPT Agent,sec-fetch-mode,0.0
+ChatGPT Agent,battery_onchargingchange,0.0
+ChatGPT Agent,origin,0.8989
+ChatGPT Agent,screen_availLeft,0.2146
+ChatGPT Agent,content-length,0.9997
+ChatGPT Agent,connection-js_saveData,0.1295
+ChatGPT Agent,webGLRendererException,0.8867
+ChatGPT Agent,connection,0.0
+ChatGPT Agent,multiMediaDevices_micros,0.836
+ChatGPT Agent,cf-visitor,0.0
+ChatGPT Agent,client_height,0.9961
+ChatGPT Agent,buildID,0.1295
+ChatGPT Agent,cf-ray,0.0
+ChatGPT Agent,detailChrome,0.1295
+ChatGPT Agent,sec-ch-ua-platform,0.8628
+ChatGPT Agent,detailChrome_csi,1.0
+ChatGPT Agent,permissions_persistent-storage,0.9234
+ChatGPT Agent,userAgentData_wow64,0.4777
+ChatGPT Agent,keyboard,0.5418
+ChatGPT Agent,userAgentData_architecture,0.8501
+ChatGPT Agent,audioFormats_audio/x-mpegurl,0.8705
+ChatGPT Agent,detailChrome_app,1.0
+ChatGPT Agent,resOverflow,0.0
+ChatGPT Agent,audioFormats_audio/flac,0.1295
+ChatGPT Agent,productSub,0.1295
+ChatGPT Agent,connection-js_type,0.0996
+ChatGPT Agent,connection-js_effectiveType,0.1556
+ChatGPT Agent,accept-encoding,0.0383
+ChatGPT Agent,screen_depth,0.2375
+ChatGPT Agent,permissions_magnetometer,0.7939
+ChatGPT Agent,cf-connecting-ip,0.0
+ChatGPT Agent,screen_width,0.9234
+ChatGPT Agent,referer,0.0383
+ChatGPT Agent,signature-input,1.0
+ChatGPT Agent,screen_top,0.1295
+ChatGPT Agent,userAgentData_fullVersionList,0.5762
+ChatGPT Agent,window_device_pixel_ratio,1.0
+ChatGPT Agent,battery,0.1295
+ChatGPT Agent,resOverflow_depth,1.0
+ChatGPT Agent,battery_onchargingtimechange,0.0
+ChatGPT Agent,userAgentData_brands,0.8501
+ChatGPT Agent,screen_height,1.0
+ChatGPT Agent,userAgentData_formFactors,0.5762
+ChatGPT Agent,sec-ch-ua,1.0
+ChatGPT Agent,upgrade-insecure-requests,0.0
+ChatGPT Agent,multiMediaDevices_speakers,0.7149
+ChatGPT Agent,permissions_push,0.1295
+ChatGPT Agent,permissions_notifications,0.8421
+ChatGPT Agent,permissions_clipboard-write,0.7939
+ChatGPT Agent,userAgentData,0.5143
+ChatGPT Agent,hardwareConcurrency,1.0
+ChatGPT Agent,battery_chargingTime,0.3862
+ChatGPT Agent,battery_charging,0.236
+ChatGPT Agent,battery_dischargingTime,0.0958
+ChatGPT Agent,navigator_properties_hash,1.0
+ChatGPT Agent,audioFormats_audio/3gpp,0.1579
+ChatGPT Agent,cf-ipcountry,0.0
+ChatGPT Agent,userAgentData_bitness,0.5762
+ChatGPT Agent,plugins,1.0
+ChatGPT Agent,window_outer_height,1.0
+ChatGPT Agent,deviceMemory,0.1303
+ChatGPT Agent,battery_level,0.4544
+ChatGPT Agent,sec-fetch-site,0.0
+ChatGPT Agent,resOverflow_errorStacklength,0.7471
+ChatGPT Agent,window_inner_width,0.8092
+ChatGPT Agent,connection-js,0.1295
+ChatGPT Agent,alt-used,0.0146
+ChatGPT Agent,userAgent-js,1.0
+ChatGPT Agent,detailChrome_sendMessage,0.9617
+ChatGPT Agent,hasChrome,0.1295
+ChatGPT Agent,connection-js_rtt,0.7019
+ChatGPT Agent,permissions,0.0
+ChatGPT Agent,connection-js_downlinkMax,0.0
+ChatGPT Agent,cdn-loop,0.0
+ChatGPT Agent,audioContext_state,0.4263
+ChatGPT Agent,multiMediaDevices,0.0023
+ChatGPT Agent,detailChrome_runtime,0.9617
+ChatGPT Agent,"videoFormats_video/ogg; codecs=""opus""",0.1295
+ChatGPT Agent,permissions_camera,0.9234
+ChatGPT Agent,multiMediaDevices_webcams,0.8245
+ChatGPT Agent,permissions_accelerometer,0.7939
+ChatGPT Agent,resOverflow_errorMessage,0.1295
+ChatGPT Agent,userAgentData_model,0.0
+ChatGPT Agent,videoFormats,0.0
+ChatGPT Agent,screen_pixel_depth,0.2375
+ChatGPT Agent,user-agent,1.0
+ChatGPT Agent,audioFormats,0.0
+ChatGPT Agent,screen_availWidth,0.9234
+ChatGPT Agent,navigator_properties,0.0
+ChatGPT Agent,permissions_microphone,0.9234
+ChatGPT Agent,webDriverValue,0.9234
+ChatGPT Agent,sec-fetch-dest,0.0
+ChatGPT Agent,screen_availTop,0.2544
+ChatGPT Agent,window_outer_width,0.9617
+ChatGPT Agent,battery_ondischargingtimechange,0.0
+ChatGPT Agent,audioFormats_audio/aac,0.1295
+ChatGPT Agent,x-forwarded-proto,0.0
+ChatGPT Agent,gyroscope,0.1295
+ChatGPT Agent,accept,0.0383
+ChatGPT Agent,userAgentData_platformVersion,0.6907
+ChatGPT Agent,screen_availHeight,1.0
+ChatGPT Agent,languages-js,0.6023
+ChatGPT Agent,audioFormats_audio/mpeg,0.1295
+ChatGPT Agent,platform,0.7012
+ChatGPT Agent,sec-ch-ua-mobile,0.1295
+ChatGPT Agent,timezone,0.9341
+ChatGPT Agent,accept-language,0.6122
+ChatGPT Agent,sec-ch-ua-form-factors,0.0383
+ChatGPT Agent,content-type,0.0
+ChatGPT Agent,userAgentData_platform,0.7961
+ChatGPT Agent,detailChrome_webstore,0.1295
+ChatGPT Agent,audioContext,0.0
+ChatGPT Agent,signature-agent,1.0
+ChatGPT Agent,permissions_payment-handler,0.7939
+ChatGPT Agent,navigator_properties_total,0.9234
+ChatGPT Agent,detailChrome_connect,0.9617
+ChatGPT Agent,sec-fetch-user,0.0
+ChatGPT Agent,battery_onlevelchange,0.0
+ChatGPT Agent,etsl,0.1295
+ChatGPT Agent,vendor,0.1295
+ChatGPT Agent,client_width,0.919
+ChatGPT Agent,resOverflow_errorName,0.1295
+ChatGPT Agent,permissions_clipboard-read,0.7939
+ChatGPT Agent,window_inner_height,1.0
+ChatGPT Agent,connection-js_downlink,0.9272
+ChatGPT Agent,window_screenX,0.3441
+ChatGPT Agent,cookie_behavior,0.8866
+Human,iframeChrome,0.5
+Human,userAgentData_mobile,0.5
+Human,chromeRuntimeProps,0.382
+Human,audioContext_sampleRate,0.4575
+Human,permissions_midi,0.4083
+Human,host,0.0
+Human,permissions_geolocation,0.4459
+Human,dnt,0.0376
+Human,priority,0.6951
+Human,signature,0.0489
+Human,screen_left,0.528
+Human,doNotTrack,0.0632
+Human,permissions_background-sync,0.6421
+Human,detailChrome_loadTimes,0.5244
+Human,sec-fetch-mode,0.0
+Human,battery_onchargingchange,0.0
+Human,origin,0.9
+Human,screen_availLeft,0.5814
+Human,content-length,0.9989
+Human,connection-js_saveData,0.5
+Human,webGLRendererException,0.7075
+Human,connection,0.0
+Human,multiMediaDevices_micros,0.269
+Human,cf-visitor,0.0
+Human,client_height,0.993
+Human,buildID,0.5
+Human,cf-ray,0.0
+Human,detailChrome,0.5
+Human,sec-ch-ua-platform,0.6549
+Human,detailChrome_csi,0.5244
+Human,permissions_persistent-storage,0.4083
+Human,userAgentData_wow64,0.5
+Human,keyboard,0.7686
+Human,userAgentData_architecture,0.5504
+Human,audioFormats_audio/x-mpegurl,0.5
+Human,detailChrome_app,0.5244
+Human,resOverflow,0.0
+Human,audioFormats_audio/flac,0.5
+Human,productSub,0.5
+Human,connection-js_type,0.0977
+Human,connection-js_effectiveType,0.5128
+Human,accept-encoding,0.0376
+Human,screen_depth,0.2331
+Human,permissions_magnetometer,0.6421
+Human,cf-connecting-ip,0.0
+Human,screen_width,0.6495
+Human,referer,0.0376
+Human,signature-input,0.0489
+Human,screen_top,0.5
+Human,userAgentData_fullVersionList,0.6504
+Human,window_device_pixel_ratio,0.1658
+Human,battery,0.5
+Human,resOverflow_depth,0.877
+Human,battery_onchargingtimechange,0.0
+Human,userAgentData_brands,0.6139
+Human,screen_height,0.6495
+Human,userAgentData_formFactors,0.5
+Human,sec-ch-ua,0.6959
+Human,upgrade-insecure-requests,0.0
+Human,multiMediaDevices_speakers,0.5237
+Human,permissions_push,0.5
+Human,permissions_notifications,0.5632
+Human,permissions_clipboard-write,0.6421
+Human,userAgentData,0.6658
+Human,hardwareConcurrency,0.3376
+Human,battery_chargingTime,0.6626
+Human,battery_charging,0.722
+Human,battery_dischargingTime,0.3148
+Human,navigator_properties_hash,0.6829
+Human,audioFormats_audio/3gpp,0.1549
+Human,cf-ipcountry,0.0
+Human,userAgentData_bitness,0.5
+Human,plugins,0.3165
+Human,window_outer_height,0.9574
+Human,deviceMemory,0.5004
+Human,battery_level,0.8403
+Human,sec-fetch-site,0.0
+Human,resOverflow_errorStacklength,0.8118
+Human,window_inner_width,0.9756
+Human,connection-js,0.5
+Human,alt-used,0.475
+Human,userAgent-js,0.8447
+Human,detailChrome_sendMessage,0.5432
+Human,hasChrome,0.5
+Human,connection-js_rtt,0.8741
+Human,permissions,0.0
+Human,connection-js_downlinkMax,0.0
+Human,cdn-loop,0.0
+Human,audioContext_state,0.4182
+Human,multiMediaDevices,0.075
+Human,detailChrome_runtime,0.5432
+Human,"videoFormats_video/ogg; codecs=""opus""",0.5
+Human,permissions_camera,0.4083
+Human,multiMediaDevices_webcams,0.2795
+Human,permissions_accelerometer,0.6421
+Human,resOverflow_errorMessage,0.5
+Human,userAgentData_model,0.0
+Human,videoFormats,0.0
+Human,screen_pixel_depth,0.2331
+Human,user-agent,0.8447
+Human,audioFormats,0.0
+Human,screen_availWidth,0.7244
+Human,navigator_properties,0.0
+Human,permissions_microphone,0.4083
+Human,webDriverValue,0.3489
+Human,sec-fetch-dest,0.0
+Human,screen_availTop,0.2808
+Human,window_outer_width,0.9909
+Human,battery_ondischargingtimechange,0.0
+Human,audioFormats_audio/aac,0.5
+Human,x-forwarded-proto,0.0
+Human,gyroscope,0.5
+Human,accept,0.0376
+Human,userAgentData_platformVersion,0.1662
+Human,screen_availHeight,0.7673
+Human,languages-js,0.4291
+Human,audioFormats_audio/mpeg,0.5
+Human,platform,0.2594
+Human,sec-ch-ua-mobile,0.5
+Human,timezone,0.3902
+Human,accept-language,0.5648
+Human,sec-ch-ua-form-factors,0.0376
+Human,content-type,0.0
+Human,userAgentData_platform,0.5808
+Human,detailChrome_webstore,0.5
+Human,audioContext,0.0
+Human,signature-agent,0.0489
+Human,permissions_payment-handler,0.6421
+Human,navigator_properties_total,0.6829
+Human,detailChrome_connect,0.5432
+Human,sec-fetch-user,0.0
+Human,battery_onlevelchange,0.0
+Human,etsl,0.5
+Human,vendor,0.5
+Human,client_width,0.9942
+Human,resOverflow_errorName,0.5
+Human,permissions_clipboard-read,0.6421
+Human,window_inner_height,0.9735
+Human,connection-js_downlink,0.9016
+Human,window_screenX,0.6564
+Human,cookie_behavior,0.8699
+BrowserUse_LOCAL,iframeChrome,0.1363
+BrowserUse_LOCAL,userAgentData_mobile,0.4739
+BrowserUse_LOCAL,chromeRuntimeProps,0.4529
+BrowserUse_LOCAL,audioContext_sampleRate,0.6516
+BrowserUse_LOCAL,permissions_midi,0.8
+BrowserUse_LOCAL,host,0.0
+BrowserUse_LOCAL,permissions_geolocation,0.8
+BrowserUse_LOCAL,dnt,0.0403
+BrowserUse_LOCAL,priority,0.5548
+BrowserUse_LOCAL,signature,0.0524
+BrowserUse_LOCAL,screen_left,0.1363
+BrowserUse_LOCAL,doNotTrack,0.0677
+BrowserUse_LOCAL,permissions_background-sync,0.8
+BrowserUse_LOCAL,detailChrome_loadTimes,0.1887
+BrowserUse_LOCAL,sec-fetch-mode,0.0
+BrowserUse_LOCAL,battery_onchargingchange,0.0
+BrowserUse_LOCAL,origin,0.8932
+BrowserUse_LOCAL,screen_availLeft,0.9984
+BrowserUse_LOCAL,content-length,0.9981
+BrowserUse_LOCAL,connection-js_saveData,0.1363
+BrowserUse_LOCAL,webGLRendererException,0.5309
+BrowserUse_LOCAL,connection,0.0
+BrowserUse_LOCAL,multiMediaDevices_micros,0.2274
+BrowserUse_LOCAL,cf-visitor,0.0
+BrowserUse_LOCAL,client_height,0.9365
+BrowserUse_LOCAL,buildID,0.1363
+BrowserUse_LOCAL,cf-ray,0.0
+BrowserUse_LOCAL,detailChrome,0.1363
+BrowserUse_LOCAL,sec-ch-ua-platform,0.4685
+BrowserUse_LOCAL,detailChrome_csi,0.1887
+BrowserUse_LOCAL,permissions_persistent-storage,0.8
+BrowserUse_LOCAL,userAgentData_wow64,0.4739
+BrowserUse_LOCAL,keyboard,0.871
+BrowserUse_LOCAL,userAgentData_architecture,0.5488
+BrowserUse_LOCAL,audioFormats_audio/x-mpegurl,0.1887
+BrowserUse_LOCAL,detailChrome_app,0.1887
+BrowserUse_LOCAL,resOverflow,0.0
+BrowserUse_LOCAL,audioFormats_audio/flac,0.1363
+BrowserUse_LOCAL,productSub,0.1363
+BrowserUse_LOCAL,connection-js_type,1.0
+BrowserUse_LOCAL,connection-js_effectiveType,0.1637
+BrowserUse_LOCAL,accept-encoding,0.0403
+BrowserUse_LOCAL,screen_depth,0.25
+BrowserUse_LOCAL,permissions_magnetometer,0.8
+BrowserUse_LOCAL,cf-connecting-ip,0.0
+BrowserUse_LOCAL,screen_width,0.3726
+BrowserUse_LOCAL,referer,0.0403
+BrowserUse_LOCAL,signature-input,0.0524
+BrowserUse_LOCAL,screen_top,0.1363
+BrowserUse_LOCAL,userAgentData_fullVersionList,0.7103
+BrowserUse_LOCAL,window_device_pixel_ratio,0.1556
+BrowserUse_LOCAL,battery,0.1363
+BrowserUse_LOCAL,resOverflow_depth,0.8548
+BrowserUse_LOCAL,battery_onchargingtimechange,0.0
+BrowserUse_LOCAL,userAgentData_brands,0.6431
+BrowserUse_LOCAL,screen_height,0.3726
+BrowserUse_LOCAL,userAgentData_formFactors,0.487
+BrowserUse_LOCAL,sec-ch-ua,0.5565
+BrowserUse_LOCAL,upgrade-insecure-requests,0.0
+BrowserUse_LOCAL,multiMediaDevices_speakers,0.3548
+BrowserUse_LOCAL,permissions_push,0.1363
+BrowserUse_LOCAL,permissions_notifications,0.8
+BrowserUse_LOCAL,permissions_clipboard-write,0.8
+BrowserUse_LOCAL,userAgentData,0.5074
+BrowserUse_LOCAL,hardwareConcurrency,0.3621
+BrowserUse_LOCAL,battery_chargingTime,0.6335
+BrowserUse_LOCAL,battery_charging,0.3219
+BrowserUse_LOCAL,battery_dischargingTime,0.2065
+BrowserUse_LOCAL,navigator_properties_hash,0.4685
+BrowserUse_LOCAL,audioFormats_audio/3gpp,0.1661
+BrowserUse_LOCAL,cf-ipcountry,0.0
+BrowserUse_LOCAL,userAgentData_bitness,0.487
+BrowserUse_LOCAL,plugins,0.3395
+BrowserUse_LOCAL,window_outer_height,0.9984
+BrowserUse_LOCAL,deviceMemory,0.1371
+BrowserUse_LOCAL,battery_level,0.9772
+BrowserUse_LOCAL,sec-fetch-site,0.0
+BrowserUse_LOCAL,resOverflow_errorStacklength,0.7446
+BrowserUse_LOCAL,window_inner_width,0.9984
+BrowserUse_LOCAL,connection-js,0.1363
+BrowserUse_LOCAL,alt-used,0.0153
+BrowserUse_LOCAL,userAgent-js,0.7556
+BrowserUse_LOCAL,detailChrome_sendMessage,0.229
+BrowserUse_LOCAL,hasChrome,0.1363
+BrowserUse_LOCAL,connection-js_rtt,0.7353
+BrowserUse_LOCAL,permissions,0.0
+BrowserUse_LOCAL,connection-js_downlinkMax,0.0
+BrowserUse_LOCAL,cdn-loop,0.0
+BrowserUse_LOCAL,audioContext_state,0.4298
+BrowserUse_LOCAL,multiMediaDevices,0.0024
+BrowserUse_LOCAL,detailChrome_runtime,0.229
+BrowserUse_LOCAL,"videoFormats_video/ogg; codecs=""opus""",0.1363
+BrowserUse_LOCAL,permissions_camera,0.8
+BrowserUse_LOCAL,multiMediaDevices_webcams,0.2395
+BrowserUse_LOCAL,permissions_accelerometer,0.8
+BrowserUse_LOCAL,resOverflow_errorMessage,0.1363
+BrowserUse_LOCAL,userAgentData_model,0.0
+BrowserUse_LOCAL,videoFormats,0.0
+BrowserUse_LOCAL,screen_pixel_depth,0.25
+BrowserUse_LOCAL,user-agent,0.7556
+BrowserUse_LOCAL,audioFormats,0.0
+BrowserUse_LOCAL,screen_availWidth,0.9984
+BrowserUse_LOCAL,navigator_properties,0.0
+BrowserUse_LOCAL,permissions_microphone,0.8
+BrowserUse_LOCAL,webDriverValue,0.3742
+BrowserUse_LOCAL,sec-fetch-dest,0.0
+BrowserUse_LOCAL,screen_availTop,0.9984
+BrowserUse_LOCAL,window_outer_width,0.9984
+BrowserUse_LOCAL,battery_ondischargingtimechange,0.0
+BrowserUse_LOCAL,audioFormats_audio/aac,0.1363
+BrowserUse_LOCAL,x-forwarded-proto,0.0
+BrowserUse_LOCAL,gyroscope,0.1363
+BrowserUse_LOCAL,accept,0.0403
+BrowserUse_LOCAL,userAgentData_platformVersion,0.1782
+BrowserUse_LOCAL,screen_availHeight,0.9984
+BrowserUse_LOCAL,languages-js,0.2968
+BrowserUse_LOCAL,audioFormats_audio/mpeg,0.1363
+BrowserUse_LOCAL,platform,0.2782
+BrowserUse_LOCAL,sec-ch-ua-mobile,0.1363
+BrowserUse_LOCAL,timezone,0.4185
+BrowserUse_LOCAL,accept-language,0.2242
+BrowserUse_LOCAL,sec-ch-ua-form-factors,0.0403
+BrowserUse_LOCAL,content-type,0.0
+BrowserUse_LOCAL,userAgentData_platform,0.594
+BrowserUse_LOCAL,detailChrome_webstore,0.1363
+BrowserUse_LOCAL,audioContext,0.0
+BrowserUse_LOCAL,signature-agent,0.0524
+BrowserUse_LOCAL,permissions_payment-handler,0.8
+BrowserUse_LOCAL,navigator_properties_total,0.4685
+BrowserUse_LOCAL,detailChrome_connect,0.229
+BrowserUse_LOCAL,sec-fetch-user,0.0
+BrowserUse_LOCAL,battery_onlevelchange,0.0
+BrowserUse_LOCAL,etsl,0.1363
+BrowserUse_LOCAL,vendor,0.1363
+BrowserUse_LOCAL,client_width,0.9989
+BrowserUse_LOCAL,resOverflow_errorName,0.1363
+BrowserUse_LOCAL,permissions_clipboard-read,0.8
+BrowserUse_LOCAL,window_inner_height,0.9984
+BrowserUse_LOCAL,connection-js_downlink,0.9135
+BrowserUse_LOCAL,window_screenX,0.9984
+BrowserUse_LOCAL,cookie_behavior,0.4379
+BrowserUse_Stealth,iframeChrome,0.1352
+BrowserUse_Stealth,userAgentData_mobile,0.5015
+BrowserUse_Stealth,chromeRuntimeProps,0.5024
+BrowserUse_Stealth,audioContext_sampleRate,0.4496
+BrowserUse_Stealth,permissions_midi,0.7936
+BrowserUse_Stealth,host,0.0
+BrowserUse_Stealth,permissions_geolocation,0.7936
+BrowserUse_Stealth,dnt,0.04
+BrowserUse_Stealth,priority,0.6808
+BrowserUse_Stealth,signature,0.052
+BrowserUse_Stealth,screen_left,0.1352
+BrowserUse_Stealth,doNotTrack,0.2187
+BrowserUse_Stealth,permissions_background-sync,0.7936
+BrowserUse_Stealth,detailChrome_loadTimes,0.1872
+BrowserUse_Stealth,sec-fetch-mode,0.0
+BrowserUse_Stealth,battery_onchargingchange,0.0
+BrowserUse_Stealth,origin,0.8919
+BrowserUse_Stealth,screen_availLeft,0.4722
+BrowserUse_Stealth,content-length,0.9989
+BrowserUse_Stealth,connection-js_saveData,0.1352
+BrowserUse_Stealth,webGLRendererException,0.5729
+BrowserUse_Stealth,connection,0.0
+BrowserUse_Stealth,multiMediaDevices_micros,0.2332
+BrowserUse_Stealth,cf-visitor,0.0
+BrowserUse_Stealth,client_height,0.9169
+BrowserUse_Stealth,buildID,0.1352
+BrowserUse_Stealth,cf-ray,0.0
+BrowserUse_Stealth,detailChrome,0.1352
+BrowserUse_Stealth,sec-ch-ua-platform,0.8921
+BrowserUse_Stealth,detailChrome_csi,0.1872
+BrowserUse_Stealth,permissions_persistent-storage,0.7936
+BrowserUse_Stealth,userAgentData_wow64,0.5015
+BrowserUse_Stealth,keyboard,0.8976
+BrowserUse_Stealth,userAgentData_architecture,0.6996
+BrowserUse_Stealth,audioFormats_audio/x-mpegurl,0.1872
+BrowserUse_Stealth,detailChrome_app,0.1872
+BrowserUse_Stealth,resOverflow,0.0
+BrowserUse_Stealth,audioFormats_audio/flac,0.1352
+BrowserUse_Stealth,productSub,0.1352
+BrowserUse_Stealth,connection-js_type,0.104
+BrowserUse_Stealth,connection-js_effectiveType,0.1624
+BrowserUse_Stealth,accept-encoding,0.04
+BrowserUse_Stealth,screen_depth,0.5509
+BrowserUse_Stealth,permissions_magnetometer,0.7936
+BrowserUse_Stealth,cf-connecting-ip,0.0
+BrowserUse_Stealth,screen_width,0.6631
+BrowserUse_Stealth,referer,0.04
+BrowserUse_Stealth,signature-input,0.052
+BrowserUse_Stealth,screen_top,0.1352
+BrowserUse_Stealth,userAgentData_fullVersionList,0.7521
+BrowserUse_Stealth,window_device_pixel_ratio,0.5627
+BrowserUse_Stealth,battery,0.1352
+BrowserUse_Stealth,resOverflow_depth,0.9644
+BrowserUse_Stealth,battery_onchargingtimechange,0.0
+BrowserUse_Stealth,userAgentData_brands,0.6206
+BrowserUse_Stealth,screen_height,0.6631
+BrowserUse_Stealth,userAgentData_formFactors,0.5009
+BrowserUse_Stealth,sec-ch-ua,0.552
+BrowserUse_Stealth,upgrade-insecure-requests,0.0
+BrowserUse_Stealth,multiMediaDevices_speakers,0.352
+BrowserUse_Stealth,permissions_push,0.1352
+BrowserUse_Stealth,permissions_notifications,0.7936
+BrowserUse_Stealth,permissions_clipboard-write,0.7936
+BrowserUse_Stealth,userAgentData,0.5564
+BrowserUse_Stealth,hardwareConcurrency,0.7644
+BrowserUse_Stealth,battery_chargingTime,0.6002
+BrowserUse_Stealth,battery_charging,0.4276
+BrowserUse_Stealth,battery_dischargingTime,0.2999
+BrowserUse_Stealth,navigator_properties_hash,0.8984
+BrowserUse_Stealth,audioFormats_audio/3gpp,0.1648
+BrowserUse_Stealth,cf-ipcountry,0.0
+BrowserUse_Stealth,userAgentData_bitness,0.5009
+BrowserUse_Stealth,plugins,0.3368
+BrowserUse_Stealth,window_outer_height,0.9815
+BrowserUse_Stealth,deviceMemory,0.136
+BrowserUse_Stealth,battery_level,0.7081
+BrowserUse_Stealth,sec-fetch-site,0.0
+BrowserUse_Stealth,resOverflow_errorStacklength,0.874
+BrowserUse_Stealth,window_inner_width,0.8894
+BrowserUse_Stealth,connection-js,0.1352
+BrowserUse_Stealth,alt-used,0.0152
+BrowserUse_Stealth,userAgent-js,0.9448
+BrowserUse_Stealth,detailChrome_sendMessage,0.2272
+BrowserUse_Stealth,hasChrome,0.1352
+BrowserUse_Stealth,connection-js_rtt,0.9008
+BrowserUse_Stealth,permissions,0.0
+BrowserUse_Stealth,connection-js_downlinkMax,0.0
+BrowserUse_Stealth,cdn-loop,0.0
+BrowserUse_Stealth,audioContext_state,0.6696
+BrowserUse_Stealth,multiMediaDevices,0.0024
+BrowserUse_Stealth,detailChrome_runtime,0.2272
+BrowserUse_Stealth,"videoFormats_video/ogg; codecs=""opus""",0.1352
+BrowserUse_Stealth,permissions_camera,0.7936
+BrowserUse_Stealth,multiMediaDevices_webcams,0.2826
+BrowserUse_Stealth,permissions_accelerometer,0.7936
+BrowserUse_Stealth,resOverflow_errorMessage,0.1352
+BrowserUse_Stealth,userAgentData_model,0.0
+BrowserUse_Stealth,videoFormats,0.0
+BrowserUse_Stealth,screen_pixel_depth,0.5509
+BrowserUse_Stealth,user-agent,0.9448
+BrowserUse_Stealth,audioFormats,0.0
+BrowserUse_Stealth,screen_availWidth,0.7124
+BrowserUse_Stealth,navigator_properties,0.0
+BrowserUse_Stealth,permissions_microphone,0.7936
+BrowserUse_Stealth,webDriverValue,0.3712
+BrowserUse_Stealth,sec-fetch-dest,0.0
+BrowserUse_Stealth,screen_availTop,0.8343
+BrowserUse_Stealth,window_outer_width,0.9769
+BrowserUse_Stealth,battery_ondischargingtimechange,0.0
+BrowserUse_Stealth,audioFormats_audio/aac,0.1352
+BrowserUse_Stealth,x-forwarded-proto,0.0
+BrowserUse_Stealth,gyroscope,0.1352
+BrowserUse_Stealth,accept,0.04
+BrowserUse_Stealth,userAgentData_platformVersion,0.5514
+BrowserUse_Stealth,screen_availHeight,0.9815
+BrowserUse_Stealth,languages-js,0.2944
+BrowserUse_Stealth,audioFormats_audio/mpeg,0.1352
+BrowserUse_Stealth,platform,0.9137
+BrowserUse_Stealth,sec-ch-ua-mobile,0.1352
+BrowserUse_Stealth,timezone,0.8912
+BrowserUse_Stealth,accept-language,0.2224
+BrowserUse_Stealth,sec-ch-ua-form-factors,0.04
+BrowserUse_Stealth,content-type,0.0
+BrowserUse_Stealth,userAgentData_platform,0.7543
+BrowserUse_Stealth,detailChrome_webstore,0.1352
+BrowserUse_Stealth,audioContext,0.0
+BrowserUse_Stealth,signature-agent,0.052
+BrowserUse_Stealth,permissions_payment-handler,0.7936
+BrowserUse_Stealth,navigator_properties_total,0.8984
+BrowserUse_Stealth,detailChrome_connect,0.2272
+BrowserUse_Stealth,sec-fetch-user,0.0
+BrowserUse_Stealth,battery_onlevelchange,0.0
+BrowserUse_Stealth,etsl,0.1352
+BrowserUse_Stealth,vendor,0.1352
+BrowserUse_Stealth,client_width,0.9412
+BrowserUse_Stealth,resOverflow_errorName,0.1352
+BrowserUse_Stealth,permissions_clipboard-read,0.7936
+BrowserUse_Stealth,window_inner_height,0.943
+BrowserUse_Stealth,connection-js_downlink,0.9097
+BrowserUse_Stealth,window_screenX,0.7084
+BrowserUse_Stealth,cookie_behavior,0.4344

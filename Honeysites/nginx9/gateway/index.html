@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Turnstile Invisible Cloudflare Gateway</title>
+    <script
+      src="https://challenges.cloudflare.com/turnstile/v0/api.js"
+      async
+      defer
+    ></script>
+    <script src="bundle.js" defer></script>
+  </head>
+  <body>
+    <h2>Please wait while we verify you're human...</h2>
+
+    <div
+      class="cf-turnstile"
+      data-sitekey="0x4AAAAAABhuoHSYoyU1FzNo"
+      data-callback="onSuccess"
+    ></div>
+
+    <script>
+      function onSuccess(token) {
+        
+        fetch("/verify-turnstile", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({ "cf-turnstile-response": token }),
+        })
+          .then((res) => res.json())
+          .then((data) => {
+            if (data.verified) {
+              document.cookie = "verified=true; path=/; max-age=3";
+
+              window.location.href = "/";
+            } else {
+              document.body.innerHTML = "<h3>Access denied (low score).</h3>";
+            }
+          })
+          .catch((err) => {
+            console.log(err);
+            document.body.innerHTML = "<h3>Error contacting server.</h3>";
+          });
+      }
+    </script>
+      <script>
+      window.onload = async function onloadCallback() {
+        const domainKey = "site9";
+        const backendUrl =
+          "https://api.example.org"; // Change to your backend domain/IP
+        /* Save browser fingerprint */
+        try {
+          const result = await window.computeFingerprint();
+
+          // Send it to your server (adjust URL and method as needed)
+          const res = await fetch(`${backendUrl}/fingerprints`, {
+            method: "POST",
+            credentials: "include",
+            headers: { "Content-Type": "application/json" },
+            body: JSON.stringify({ attributesJS: result, siteKey: domainKey }),
+          });
+
+          const data = await res.json();
+
+          console.log("Fingerprint sent successfully.");
+
+          // save cookie
+          const cookieId = data["cookieId"];
+
+          // Get the saved cookieId
+          let evCookieId = await window.getEverCookie("cookieId", false);
+          let evCookieIdVal = evCookieId.value;
+
+          if (!evCookieIdVal) {
+            await window.setEverCookie("cookieId", cookieId, 120);
+          }
+        } catch (error) {
+          console.error("Error computing or sending fingerprint:", error);
+        }
+      };
+    </script>
+  </body>
+</html>

@@ -1,0 +1,254 @@
+# robots.txt
+
+# Block all known AI crawlers and assistants
+# from using content for training AI models.
+# Sources: 
+# - https://robotstxt.com/ai
+# - https://perishablepress.com/ultimate-ai-block-list/
+
+# !! We do not want to use "User-Agent: *" since it might disallow usefull bots !!
+
+User-Agent: .ai
+User-Agent: AI Article Writer
+User-Agent: AI Content Detector
+User-Agent: AI Dungeon
+User-Agent: AI Search Engine
+User-Agent: AI SEO Crawler
+User-Agent: AI Training
+User-Agent: AI21 Labs
+User-Agent: AI2Bot
+User-Agent: AI2Bot-Dolma
+User-Agent: AIBot
+User-Agent: AIMatrix
+User-Agent: AISearchBot
+User-Agent: AITraining
+User-Agent: AIWriter
+User-Agent: Alexa
+User-Agent: Alpha AI
+User-Agent: AlphaAI
+User-Agent: Amelia
+User-Agent: Amazon Bedrock
+User-Agent: Amazon Comprehend
+User-Agent: Amazon-Kendra
+User-Agent: Amazon Lex
+User-Agent: Amazon Sagemaker
+User-Agent: Amazon Silk
+User-Agent: Amazon Textract
+User-Agent: Amazonbot
+User-Agent: AndersPinkBot
+User-Agent: Andibot
+User-Agent: anthropic-ai
+User-Agent: Anthropic
+User-Agent: AnyPicker
+User-Agent: Anyword
+User-Agent: Applebot
+User-Agent: Applebot-Extended
+User-Agent: Aria Browse
+User-Agent: Articoolo
+User-Agent: Automated Writer
+User-Agent: AwarioBot
+User-Agent: AwarioRssBot
+User-Agent: AwarioSmartBot
+User-Agent: Azure
+User-Agent: BardBot
+User-Agent: Brave Leo
+User-Agent: Brightbot 1.0
+User-Agent: ByteDance
+User-Agent: Bytespider
+User-Agent: CatBoost
+User-Agent: CC-Crawler
+User-Agent: CCBot
+User-Agent: ChatGLM
+User-Agent: ChatGPT-User
+User-Agent: Chinchilla
+User-Agent: Claude
+User-Agent: Claude-SearchBot
+User-Agent: Claude-User
+User-Agent: Claude-Web
+User-Agent: ClaudeBot
+User-Agent: ClearScope
+User-Agent: Cohere
+User-Agent: cohere-ai
+User-Agent: cohere-training-data-crawler
+User-Agent: Common Crawl
+User-Agent: CommonCrawl
+User-Agent: Content Harmony
+User-Agent: Content King
+User-Agent: Content Optimizer
+User-Agent: Content Samurai
+User-Agent: ContentAtScale
+User-Agent: ContentBot
+User-Agent: Contentedge
+User-Agent: Conversion AI
+User-Agent: Copilot
+User-Agent: CopyAI
+User-Agent: Copymatic
+User-Agent: Copyscape
+User-Agent: Cotoyogi
+User-Agent: CrawlQ AI
+User-Agent: Crawlspace
+User-Agent: Crew AI
+User-Agent: CrewAI
+User-Agent: DALL-E
+User-Agent: DataForSeoBot
+User-Agent: DataProvider
+User-Agent: DeepAI
+User-Agent: DeepL
+User-Agent: DeepMind
+User-Agent: DeepSeek
+User-Agent: Diffbot
+User-Agent: Doubao AI
+User-Agent: DuckAssistBot
+User-Agent: FacebookBot
+User-Agent: FacebookExternalHit
+User-Agent: Factset_spyderbot
+User-Agent: Falcon
+User-Agent: Firecrawl
+User-Agent: FirecrawlAgent
+User-Agent: Flyriver
+User-Agent: Frase AI
+User-Agent: FriendlyCrawler
+User-Agent: Gemini
+User-Agent: Gemma
+User-Agent: GenAI
+User-Agent: Genspark
+User-Agent: GLM
+User-Agent: Goose
+User-Agent: Google-CloudVertexBot
+User-Agent: Google-Extended
+User-Agent: GoogleOther
+User-Agent: GoogleOther-Image
+User-Agent: GoogleOther-Video
+User-Agent: GPT
+User-Agent: GPTBot
+User-Agent: Grammarly
+User-Agent: Grendizer
+User-Agent: Grok
+User-Agent: GT Bot
+User-Agent: GTBot
+User-Agent: Hemingway Editor
+User-Agent: Hugging Face
+User-Agent: Hypotenuse AI
+User-Agent: iaskspider
+User-Agent: iaskspider/2.0
+User-Agent: ICC-Crawler
+User-Agent: ImageGen
+User-Agent: ImagesiftBot
+User-Agent: img2dataset
+User-Agent: INK Editor
+User-Agent: INKforall
+User-Agent: IntelliSeek
+User-Agent: Inferkit
+User-Agent: ISSCyberRiskCrawler
+User-Agent: JasperAI
+User-Agent: Kafkai
+User-Agent: Kangaroo
+User-Agent: Kangaroo Bot
+User-Agent: Keyword Density AI
+User-Agent: Knowledge
+User-Agent: KomoBot
+User-Agent: LLaMA
+User-Agent: LLMs
+User-Agent: magpie-crawler
+User-Agent: MarketMuse
+User-Agent: Meltwater
+User-Agent: Meta AI
+User-Agent: Meta-AI
+User-Agent: Meta-External
+User-Agent: Meta-ExternalAgent
+User-Agent: Meta-ExternalFetcher
+User-Agent: MetaAI
+User-Agent: MetaTagBot
+User-Agent: Mistral
+User-Agent: MistralAI-User/1.0
+User-Agent: Narrative
+User-Agent: NeevaBot
+User-Agent: Neural Text
+User-Agent: NeuralSEO
+User-Agent: Nova Act
+User-Agent: NovaAct
+User-Agent: OAI-SearchBot
+User-Agent: Omgili
+User-Agent: Omgilibot
+User-Agent: Open AI
+User-Agent: OpenAI
+User-Agent: OpenBot
+User-Agent: OpenText AI
+User-Agent: Operator
+User-Agent: Outwrite
+User-Agent: Page Analyzer AI
+User-Agent: PanguBot
+User-Agent: Paperlibot
+User-Agent: Paraphraser.io
+User-Agent: peer39_crawler
+User-Agent: Perplexity
+User-Agent: Perplexity-User
+User-Agent: PerplexityBot
+User-Agent: PetalBot
+User-Agent: Petalbot
+User-Agent: PhindBot
+User-Agent: Phindbot
+User-Agent: PiplBot
+User-Agent: ProWritingAid
+User-Agent: QualifiedBot
+User-Agent: QuillBot
+User-Agent: RobotSpider
+User-Agent: Rytr
+User-Agent: SaplingAI
+User-Agent: Scalenut
+User-Agent: Scraper
+User-Agent: Scrapy
+User-Agent: ScriptBook
+User-Agent: Seekr
+User-Agent: SemrushBot-OCOB
+User-Agent: SemrushBot-SWA
+User-Agent: SEO Content Machine
+User-Agent: SEO Robot
+User-Agent: Sentibot
+User-Agent: Sidetrade
+User-Agent: Sidetrade indexer bot
+User-Agent: Simplified AI
+User-Agent: Sitefinity
+User-Agent: Skydancer
+User-Agent: SlickWrite
+User-Agent: Sonic
+User-Agent: Spin Rewriter
+User-Agent: Spinbot
+User-Agent: Stability
+User-Agent: StableDiffusionBot
+User-Agent: Sudowrite
+User-Agent: Super Agent
+User-Agent: Surfer AI
+User-Agent: Text Blaze
+User-Agent: TextCortex
+User-Agent: The Knowledge AI
+User-Agent: TikTokSpider
+User-Agent: Timpibot
+User-Agent: TurnitinBot
+User-Agent: VelenPublicWebCrawler
+User-Agent: Vidnami AI
+User-Agent: Webzio
+User-Agent: Webzio-Extended
+User-Agent: Whisper
+User-Agent: WordAI
+User-Agent: Wordtune
+User-Agent: WormsGTP
+User-Agent: WPBot
+User-Agent: wpbot
+User-Agent: Writecream
+User-Agent: Writescope
+User-Agent: Writesonic
+User-Agent: WriterZen
+User-Agent: xAI
+User-Agent: xBot
+User-Agent: YouBot
+User-Agent: Youbot
+User-Agent: Zero GTP
+User-Agent: Zerochat
+User-Agent: Zhipu
+User-Agent: Zimm
+
+Disallow: /
+
+# DisallowAITraining is not an officiel directive 
+# DisallowAITraining: /

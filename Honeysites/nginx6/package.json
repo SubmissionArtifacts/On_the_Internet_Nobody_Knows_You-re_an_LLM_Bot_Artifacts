@@ -1,0 +1,13 @@
+{
+    "name": "turnstile-captcha-backend",
+    "version": "1.0.0",
+    "description": "Cloudflare Turnstile backend verifier",
+    "main": "server.js",
+    "dependencies": {
+      "dotenv": "^16.5.0",
+      "express": "^5.1.0",
+      "node-fetch": "^3.3.2"
+    },
+    "type": "module"
+  }
+  

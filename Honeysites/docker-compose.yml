@@ -1,0 +1,370 @@
+version: '3.9'
+
+services:
+  reverse-proxy:
+    build:
+      context: ./
+      dockerfile: Dockerfile
+
+    container_name: reverse-proxy
+    ports:
+      - "80:80/tcp"
+      - "80:80/udp"
+      - "443:443/tcp"
+      - "443:443/udp"
+    depends_on:
+      - nginx1
+      - nginx2
+      - nginx3
+      - nginx4
+      - nginx5
+      - nginx6
+      - nginx7
+      - nginx8
+      - nginx9
+      - matomo
+      - backend
+      - database
+      - php-main
+    volumes:
+      - /data/nginx/cache
+      - ./nginx.conf:/etc/nginx/nginx.conf:ro
+      - ./logs:/var/log/nginx/old_logs
+      - ./logrotate:/etc/logrotate.d/nginx
+      - ./main:/var/www/html:ro
+      - ./certbot/www/:/var/www/certbot/:rw
+      - ./certbot/conf/:/etc/letsencrypt/:rw
+  
+  php-main:
+    container_name: php-main
+    image: php:8.3-fpm-alpine 
+    volumes:
+      - ./main:/var/www/html:ro
+    ports:
+      - "9000:9000"
+  
+  certbot:
+    image: certbot/certbot:latest
+    volumes:
+      - ./certbot/www/:/var/www/certbot/:rw
+      - ./certbot/conf/:/etc/letsencrypt/:rw
+
+  nginx1:
+    image: nginx:latest
+    container_name: nginx1
+    volumes:
+      - ./nginx1/nginx.conf:/etc/nginx/nginx.conf:ro
+      - ./nginx1/main:/var/www/html:ro 
+    depends_on:
+      - php-nginx1
+  php-nginx1:
+    container_name: php-nginx1
+    image: php:8.3-fpm-alpine 
+    volumes:
+      - ./nginx1/main:/var/www/html:ro
+    ports:
+      - "9001:9000" 
+
+  nginx2:
+    image: nginx:latest
+    container_name: nginx2
+    volumes:
+      - ./nginx2/nginx.conf:/etc/nginx/nginx.conf:ro
+      - ./nginx2/main:/var/www/html:ro    
+    depends_on:
+      - php-nginx2
+  php-nginx2:
+    container_name: php-nginx2
+    image: php:8.3-fpm-alpine 
+    volumes:
+      - ./nginx2/main:/var/www/html:ro
+    ports:
+      - "9002:9000" 
+
+  nginx3:
+    image: nginx:latest
+    container_name: nginx3
+    volumes:
+      - ./nginx3/nginx.conf:/etc/nginx/nginx.conf:ro
+      - ./nginx3/gateway:/usr/share/nginx/html/gateway:ro
+      - ./nginx3/public:/var/www/html:ro
+    depends_on:
+      - php-nginx3
+      - captcha-backend
+  php-nginx3:
+    container_name: php-nginx3
+    image: php:8.3-fpm-alpine 
+    volumes:
+      - ./nginx3/public:/var/www/html:ro
+    ports:
+      - "9003:9000" 
+
+  captcha-backend:
+    build:
+      context: ./nginx3
+      dockerfile: Dockerfile.backend
+    container_name: captcha-backend
+    environment:
+      - RECAPTCHA_SECRET=${RECAPTCHA_SECRET}
+    ports:
+      - "3000:3000"  
+    volumes:
+      - ./nginx3/public:/app/public
+      - ./nginx3/gateway:/app/gateway
+
+  nginx4:
+    image: nginx:latest
+    container_name: nginx4
+    volumes:
+      - ./nginx4/nginx.conf:/etc/nginx/nginx.conf:ro
+      - ./nginx4/gateway:/usr/share/nginx/html/gateway:ro
+      - ./nginx4/public:/var/www/html:ro
+    depends_on:
+      - captcha-prosopo-backend
+      - php-nginx4
+  php-nginx4:
+    container_name: php-nginx4
+    image: php:8.3-fpm-alpine 
+    volumes:
+      - ./nginx4/public:/var/www/html:ro
+    ports:
+      - "9004:9000" 
+
+  captcha-prosopo-backend:
+    build:
+      context: ./nginx4
+      dockerfile: Dockerfile.backend
+    container_name: captcha-prosopo-backend
+    environment:
+      - PROSOPO_SECRET=${PROSOPO_SECRET}
+    ports:
+      - "3001:3001"  
+    volumes:
+      - ./nginx4/public:/app/public
+      - ./nginx4/gateway:/app/gateway
+
+  nginx5:
+    image: nginx:latest
+    container_name: nginx5
+    volumes:
+      - ./nginx5/nginx.conf:/etc/nginx/nginx.conf:ro
+      - ./nginx5/main:/var/www/html:ro
+    depends_on:
+      - anubis
+      - php-nginx5
+  php-nginx5:
+    container_name: php-nginx5
+    image: php:8.3-fpm-alpine 
+    volumes:
+      - ./nginx5/main:/var/www/html:ro
+    ports:
+      - "9005:9000" 
+  
+  anubis:
+    image: ghcr.io/techarohq/anubis:latest
+    container_name: anubis
+    command: >
+      -bind :8923
+      -target http://nginx5:80
+    expose:
+      - "8923:8923" 
+    restart: unless-stopped
+
+  nginx6:
+    image: nginx:latest
+    container_name: nginx6
+    volumes:
+      - ./nginx6/nginx.conf:/etc/nginx/nginx.conf:ro
+      - ./nginx6/gateway:/usr/share/nginx/html/gateway:ro
+      - ./nginx6/public:/var/www/html:ro
+    depends_on:
+      - captcha-turnstile-backend
+      - php-nginx6
+  php-nginx6:
+    container_name: php-nginx6
+    image: php:8.3-fpm-alpine 
+    volumes:
+      - ./nginx6/public:/var/www/html:ro
+    ports:
+      - "9006:9000" 
+
+  captcha-turnstile-backend:
+    container_name: captcha-turnstile-backend
+    build:
+      context: ./nginx6
+      dockerfile: Dockerfile.backend
+    environment:
+      - TURNSTILE_SECRET_SITE6=${TURNSTILE_SECRET_SITE6}
+    ports:
+      - "3002:3002"  
+    volumes:
+      - ./nginx6/public:/app/public
+      - ./nginx6/gateway:/app/gateway
+
+  nginx7:
+    image: nginx:latest
+    container_name: nginx7
+    volumes:
+      - ./nginx7/nginx.conf:/etc/nginx/nginx.conf:ro
+      - ./nginx7/main:/var/www/html:ro    
+    depends_on:
+      - php-nginx7
+  php-nginx7:
+    container_name: php-nginx7
+    image: php:8.3-fpm-alpine 
+    volumes:
+      - ./nginx7/main:/var/www/html:ro
+    ports:
+      - "9007:9000" 
+
+  nginx8:
+    image: nginx:latest
+    container_name: nginx8
+    volumes:
+      - ./nginx8/nginx.conf:/etc/nginx/nginx.conf:ro
+      - ./nginx8/gateway:/usr/share/nginx/html/gateway:ro
+      - ./nginx8/public:/var/www/html:ro
+    depends_on:
+      - anubis2
+      - captcha-prosopo-backend2
+      - php-nginx8
+  php-nginx8:
+    container_name: php-nginx8
+    image: php:8.3-fpm-alpine 
+    volumes:
+      - ./nginx8/public:/var/www/html:ro
+    ports:
+      - "9008:9000" 
+  
+  anubis2:
+    image: ghcr.io/techarohq/anubis:latest
+    container_name: anubis2
+    command: >
+      -bind :8924
+      -target http://nginx8:80
+    expose:
+      - "8924"
+
+  captcha-prosopo-backend2:
+    container_name: captcha-prosopo-backend2
+    build:
+      context: ./nginx8
+      dockerfile: Dockerfile.backend
+    environment:
+      - PROSOPO_SECRET=${PROSOPO_SECRET}
+    ports:
+      - "3003:3003"  
+    volumes:
+      - ./nginx8/public:/app/public
+      - ./nginx8/gateway:/app/gateway
+
+  nginx9:
+    image: nginx:latest
+    container_name: nginx9
+    volumes:
+      - ./nginx9/nginx.conf:/etc/nginx/nginx.conf:ro
+      - ./nginx9/gateway:/usr/share/nginx/html/gateway:ro
+      - ./nginx9/public:/var/www/html:ro
+    depends_on:
+      - turnstile-backend-site0
+      - php-nginx9
+  php-nginx9:
+    container_name: php-nginx9
+    image: php:8.3-fpm-alpine 
+    volumes:
+      - ./nginx9/public:/var/www/html:ro
+    ports:
+      - "9009:9000" 
+
+  turnstile-backend-site0:
+    container_name: turnstile-backend-site0
+    build:
+      context: ./nginx9
+      dockerfile: Dockerfile.backend
+    environment:
+      - TURNSTILE_SECRET_SITE9=${TURNSTILE_SECRET_SITE9}
+    ports:
+      - "3004:3004"  
+    volumes:
+      - ./nginx9/public:/app/public
+      - ./nginx9/gateway:/app/gateway
+
+  matomo:
+    image: matomo
+    container_name: matomo
+    restart: unless-stopped
+    ports:
+      - "8080:80"
+    environment:
+      - MATOMO_DATABASE_HOST=matomo-db
+      - PHP_MEMORY_LIMIT=2048M
+    volumes:
+      - matomo:/var/www/html
+    env_file:
+      - ./.env
+    depends_on:
+      - matomo-db
+
+  matomo-db:
+    image: mariadb
+    container_name: matomo-db
+    restart: unless-stopped
+    environment:
+      - MYSQL_ROOT_PASSWORD=${MYSQL_ROOT_PASSWORD}
+      - MYSQL_DATABASE=${MATOMO_DATABASE}    
+      - MYSQL_USER=${MATOMO_DATABASE_USER}  
+      - MYSQL_PASSWORD=${MATOMO_DATABASE_PASSWORD}  
+      - MARIADB_AUTO_UPGRADE=1
+      - MARIADB_DISABLE_UPGRADE_BACKUP=1
+    env_file:
+      - ./.env
+    volumes:
+      - matomo-db:/var/lib/mysql
+
+  database:
+    image: mongo:7
+    container_name: actions-db
+    restart: always
+    ports:
+      - 27017:27017
+    env_file:
+      - ./db/.env
+    cap_add:
+      - SYS_NICE
+    volumes:
+      - mongodb-data:/data/db/
+
+  backend:
+    container_name: actions-api
+    build:
+      context: ./api
+      dockerfile: Dockerfile
+    restart: always
+    volumes:
+      - ./api:/usr/src/actions-api
+    env_file:
+      - ./api/.env
+    ports:
+      - 3005:3005
+    depends_on:
+      - database
+
+volumes:
+  matomo:
+    external:
+      name: "matomo"
+  matomo-db:
+    external:
+      name: "matomo-db"
+  mongodb-data:
+    external:
+      name: "actions-mongo-data"
+
+
+
+
+
+
+
+
+

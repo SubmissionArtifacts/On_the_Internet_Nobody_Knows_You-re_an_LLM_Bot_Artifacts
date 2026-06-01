@@ -1,0 +1,5 @@
+./logs
+.env.local
+./db/.env.local
+./api/.env.local
+./certbot

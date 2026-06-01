@@ -1,0 +1,1191 @@
+JA4: q13d0311h3_55b375c5d22e_653d80c3fe9d
+Protocol: QUIC
+TLS version: 1.3
+SNI: present
+Number of cipher suites: 03
+Number of extensions: 11
+First ALPN value: h3
+Cipher suites list:
+Cipher Suite: TLS_AES_128_GCM_SHA256 (0x1301)
+Cipher Suite: TLS_AES_256_GCM_SHA384 (0x1302)
+Cipher Suite: TLS_CHACHA20_POLY1305_SHA256 (0x1303)
+
+Extensions list: 
+Type: supported_versions (43)
+Type: encrypted_client_hello (65037)
+Type: application_layer_protocol_negotiation (16)
+Type: key_share (51)
+Type: signature_algorithms (13)
+Type: supported_groups (10)
+Type: quic_transport_parameters (57)
+Type: server_name (0)
+Type: psk_key_exchange_modes (45)
+Type: compress_certificate (27)
+Type: Unknown (17613)
+
+Signatures list: 
+Signature Algorithm: ecdsa_secp256r1_sha256 (0x0403)
+Signature Algorithm: rsa_pss_rsae_sha256 (0x0804)
+Signature Algorithm: rsa_pkcs1_sha256 (0x0401)
+Signature Algorithm: ecdsa_secp384r1_sha384 (0x0503)
+Signature Algorithm: rsa_pss_rsae_sha384 (0x0805)
+Signature Algorithm: rsa_pkcs1_sha384 (0x0501)
+Signature Algorithm: rsa_pss_rsae_sha512 (0x0806)
+Signature Algorithm: rsa_pkcs1_sha512 (0x0601)
+Signature Algorithm: rsa_pkcs1_sha1 (0x0201)
+
+---
+
+JA4: q13d0312h3_55b375c5d22e_178839b6cec1
+Protocol: QUIC
+TLS version: 1.3
+SNI: present
+Number of cipher suites: 03
+Number of extensions: 12
+First ALPN value: h3
+Cipher suites list:
+Cipher Suite: TLS_AES_128_GCM_SHA256 (0x1301)
+Cipher Suite: TLS_AES_256_GCM_SHA384 (0x1302)
+Cipher Suite: TLS_CHACHA20_POLY1305_SHA256 (0x1303)
+
+Extensions list: 
+Type: key_share (51)
+Type: supported_versions (43)
+Type: Unknown (17613)
+Type: supported_groups (10)
+Type: server_name (0)
+Type: Unknown (51764)
+Type: psk_key_exchange_modes (45)
+Type: signature_algorithms (13)
+Type: encrypted_client_hello (65037)
+Type: compress_certificate (27)
+Type: quic_transport_parameters (57)
+Type: application_layer_protocol_negotiation (16)
+
+Signatures list: 
+Signature Algorithm: ecdsa_secp256r1_sha256 (0x0403)
+Signature Algorithm: rsa_pss_rsae_sha256 (0x0804)
+Signature Algorithm: rsa_pkcs1_sha256 (0x0401)
+Signature Algorithm: ecdsa_secp384r1_sha384 (0x0503)
+Signature Algorithm: rsa_pss_rsae_sha384 (0x0805)
+Signature Algorithm: rsa_pkcs1_sha384 (0x0501)
+Signature Algorithm: rsa_pss_rsae_sha512 (0x0806)
+Signature Algorithm: rsa_pkcs1_sha512 (0x0601)
+Signature Algorithm: rsa_pkcs1_sha1 (0x0201)
+
+---
+
+JA4: q13d0312h3_55b375c5d22e_5a06198afb93
+Protocol: QUIC
+TLS version: 1.3
+SNI: present
+Number of cipher suites: 03
+Number of extensions: 12
+First ALPN value: h3
+Cipher suites list:
+Cipher Suite: TLS_AES_128_GCM_SHA256 (0x1301)
+Cipher Suite: TLS_AES_256_GCM_SHA384 (0x1302)
+Cipher Suite: TLS_CHACHA20_POLY1305_SHA256 (0x1303)
+
+Extensions list: 
+Type: quic_transport_parameters (57)
+Type: encrypted_client_hello (65037)
+Type: key_share (51)
+Type: signature_algorithms (13)
+Type: compress_certificate (27)
+Type: psk_key_exchange_modes (45)
+Type: Unknown (17613)
+Type: server_name (0)
+Type: application_layer_protocol_negotiation (16)
+Type: supported_groups (10)
+Type: supported_versions (43)
+Type: pre_shared_key (41)
+
+Signatures list: 
+Signature Algorithm: ecdsa_secp256r1_sha256 (0x0403)
+Signature Algorithm: rsa_pss_rsae_sha256 (0x0804)
+Signature Algorithm: rsa_pkcs1_sha256 (0x0401)
+Signature Algorithm: ecdsa_secp384r1_sha384 (0x0503)
+Signature Algorithm: rsa_pss_rsae_sha384 (0x0805)
+Signature Algorithm: rsa_pkcs1_sha384 (0x0501)
+Signature Algorithm: rsa_pss_rsae_sha512 (0x0806)
+Signature Algorithm: rsa_pkcs1_sha512 (0x0601)
+Signature Algorithm: rsa_pkcs1_sha1 (0x0201)
+
+---
+
+JA4: q13d0313h3_55b375c5d22e_b0954bf1abdf
+Protocol: QUIC
+TLS version: 1.3
+SNI: present
+Number of cipher suites: 03
+Number of extensions: 13
+First ALPN value: h3
+Cipher suites list:
+Cipher Suite: TLS_AES_128_GCM_SHA256 (0x1301)
+Cipher Suite: TLS_AES_256_GCM_SHA384 (0x1302)
+Cipher Suite: TLS_CHACHA20_POLY1305_SHA256 (0x1303)
+
+Extensions list: 
+Type: supported_groups (10)
+Type: encrypted_client_hello (65037)
+Type: supported_versions (43)
+Type: signature_algorithms (13)
+Type: application_layer_protocol_negotiation (16)
+Type: compress_certificate (27)
+Type: psk_key_exchange_modes (45)
+Type: Unknown (51764)
+Type: key_share (51)
+Type: Unknown (17613)
+Type: quic_transport_parameters (57)
+Type: server_name (0)
+Type: pre_shared_key (41)
+
+Signatures list: 
+Signature Algorithm: ecdsa_secp256r1_sha256 (0x0403)
+Signature Algorithm: rsa_pss_rsae_sha256 (0x0804)
+Signature Algorithm: rsa_pkcs1_sha256 (0x0401)
+Signature Algorithm: ecdsa_secp384r1_sha384 (0x0503)
+Signature Algorithm: rsa_pss_rsae_sha384 (0x0805)
+Signature Algorithm: rsa_pkcs1_sha384 (0x0501)
+Signature Algorithm: rsa_pss_rsae_sha512 (0x0806)
+Signature Algorithm: rsa_pkcs1_sha512 (0x0601)
+Signature Algorithm: rsa_pkcs1_sha1 (0x0201)
+
+---
+
+JA4: q13d0314h3_55b375c5d22e_61e396c58b1f
+Protocol: QUIC
+TLS version: 1.3
+SNI: present
+Number of cipher suites: 03
+Number of extensions: 14
+First ALPN value: h3
+Cipher suites list:
+Cipher Suite: TLS_AES_128_GCM_SHA256 (0x1301)
+Cipher Suite: TLS_AES_256_GCM_SHA384 (0x1302)
+Cipher Suite: TLS_CHACHA20_POLY1305_SHA256 (0x1303)
+
+Extensions list: 
+Type: record_size_limit (28)
+Type: supported_groups (10)
+Type: extended_master_secret (23)
+Type: supported_versions (43)
+Type: signature_algorithms (13)
+Type: status_request (5)
+Type: delegated_credentials (34)
+Type: renegotiation_info (65281)
+Type: psk_key_exchange_modes (45)
+Type: application_layer_protocol_negotiation (16)
+Type: key_share (51)
+Type: server_name (0)
+Type: quic_transport_parameters (57)
+Type: encrypted_client_hello (65037)
+
+Signatures list: 
+Signature Algorithm: ecdsa_secp256r1_sha256 (0x0403)
+Signature Algorithm: ecdsa_secp384r1_sha384 (0x0503)
+Signature Algorithm: ecdsa_secp521r1_sha512 (0x0603)
+Signature Algorithm: ecdsa_sha1 (0x0203)
+Signature Algorithm: rsa_pss_rsae_sha256 (0x0804)
+Signature Algorithm: rsa_pss_rsae_sha384 (0x0805)
+Signature Algorithm: rsa_pss_rsae_sha512 (0x0806)
+Signature Algorithm: rsa_pkcs1_sha256 (0x0401)
+Signature Algorithm: rsa_pkcs1_sha384 (0x0501)
+Signature Algorithm: rsa_pkcs1_sha512 (0x0601)
+Signature Algorithm: rsa_pkcs1_sha1 (0x0201)
+
+---
+
+JA4: q13d0314h3_55b375c5d22e_9dd3975af409
+Protocol: QUIC
+TLS version: 1.3
+SNI: present
+Number of cipher suites: 03
+Number of extensions: 14
+First ALPN value: h3
+Cipher suites list:
+Cipher Suite: TLS_AES_128_GCM_SHA256 (0x1301)
+Cipher Suite: TLS_AES_256_GCM_SHA384 (0x1302)
+Cipher Suite: TLS_CHACHA20_POLY1305_SHA256 (0x1303)
+
+Extensions list: 
+Type: signature_algorithms (13)
+Type: record_size_limit (28)
+Type: psk_key_exchange_modes (45)
+Type: server_name (0)
+Type: supported_groups (10)
+Type: key_share (51)
+Type: supported_versions (43)
+Type: delegated_credentials (34)
+Type: application_layer_protocol_negotiation (16)
+Type: status_request (5)
+Type: extended_master_secret (23)
+Type: renegotiation_info (65281)
+Type: quic_transport_parameters (57)
+Type: pre_shared_key (41)
+
+Signatures list: 
+Signature Algorithm: ecdsa_secp256r1_sha256 (0x0403)
+Signature Algorithm: ecdsa_secp384r1_sha384 (0x0503)
+Signature Algorithm: ecdsa_secp521r1_sha512 (0x0603)
+Signature Algorithm: ecdsa_sha1 (0x0203)
+Signature Algorithm: rsa_pss_rsae_sha256 (0x0804)
+Signature Algorithm: rsa_pss_rsae_sha384 (0x0805)
+Signature Algorithm: rsa_pss_rsae_sha512 (0x0806)
+Signature Algorithm: rsa_pkcs1_sha256 (0x0401)
+Signature Algorithm: rsa_pkcs1_sha384 (0x0501)
+Signature Algorithm: rsa_pkcs1_sha512 (0x0601)
+Signature Algorithm: rsa_pkcs1_sha1 (0x0201)
+
+---
+
+JA4: q13d0315h3_55b375c5d22e_dc5437974b47
+Protocol: QUIC
+TLS version: 1.3
+SNI: present
+Number of cipher suites: 03
+Number of extensions: 15
+First ALPN value: h3
+Cipher suites list:
+Cipher Suite: TLS_AES_128_GCM_SHA256 (0x1301)
+Cipher Suite: TLS_AES_256_GCM_SHA384 (0x1302)
+Cipher Suite: TLS_CHACHA20_POLY1305_SHA256 (0x1303)
+
+Extensions list: 
+Type: status_request (5)
+Type: application_layer_protocol_negotiation (16)
+Type: renegotiation_info (65281)
+Type: supported_groups (10)
+Type: psk_key_exchange_modes (45)
+Type: compress_certificate (27)
+Type: server_name (0)
+Type: supported_versions (43)
+Type: key_share (51)
+Type: delegated_credentials (34)
+Type: extended_master_secret (23)
+Type: signature_algorithms (13)
+Type: record_size_limit (28)
+Type: quic_transport_parameters (57)
+Type: encrypted_client_hello (65037)
+
+Signatures list: 
+Signature Algorithm: ecdsa_secp256r1_sha256 (0x0403)
+Signature Algorithm: ecdsa_secp384r1_sha384 (0x0503)
+Signature Algorithm: ecdsa_secp521r1_sha512 (0x0603)
+Signature Algorithm: ecdsa_sha1 (0x0203)
+Signature Algorithm: rsa_pss_rsae_sha256 (0x0804)
+Signature Algorithm: rsa_pss_rsae_sha384 (0x0805)
+Signature Algorithm: rsa_pss_rsae_sha512 (0x0806)
+Signature Algorithm: rsa_pkcs1_sha256 (0x0401)
+Signature Algorithm: rsa_pkcs1_sha384 (0x0501)
+Signature Algorithm: rsa_pkcs1_sha512 (0x0601)
+Signature Algorithm: rsa_pkcs1_sha1 (0x0201)
+
+---
+
+JA4: q13d0316h3_55b375c5d22e_dc4af083c550
+Protocol: QUIC
+TLS version: 1.3
+SNI: present
+Number of cipher suites: 03
+Number of extensions: 16
+First ALPN value: h3
+Cipher suites list:
+Cipher Suite: TLS_AES_128_GCM_SHA256 (0x1301)
+Cipher Suite: TLS_AES_256_GCM_SHA384 (0x1302)
+Cipher Suite: TLS_CHACHA20_POLY1305_SHA256 (0x1303)
+
+Extensions list: 
+Type: compress_certificate (27)
+Type: signature_algorithms (13)
+Type: supported_groups (10)
+Type: delegated_credentials (34)
+Type: record_size_limit (28)
+Type: server_name (0)
+Type: status_request (5)
+Type: renegotiation_info (65281)
+Type: psk_key_exchange_modes (45)
+Type: extended_master_secret (23)
+Type: application_layer_protocol_negotiation (16)
+Type: supported_versions (43)
+Type: key_share (51)
+Type: quic_transport_parameters (57)
+Type: encrypted_client_hello (65037)
+Type: pre_shared_key (41)
+
+Signatures list: 
+Signature Algorithm: ecdsa_secp256r1_sha256 (0x0403)
+Signature Algorithm: ecdsa_secp384r1_sha384 (0x0503)
+Signature Algorithm: ecdsa_secp521r1_sha512 (0x0603)
+Signature Algorithm: ecdsa_sha1 (0x0203)
+Signature Algorithm: rsa_pss_rsae_sha256 (0x0804)
+Signature Algorithm: rsa_pss_rsae_sha384 (0x0805)
+Signature Algorithm: rsa_pss_rsae_sha512 (0x0806)
+Signature Algorithm: rsa_pkcs1_sha256 (0x0401)
+Signature Algorithm: rsa_pkcs1_sha384 (0x0501)
+Signature Algorithm: rsa_pkcs1_sha512 (0x0601)
+Signature Algorithm: rsa_pkcs1_sha1 (0x0201)
+
+---
+
+JA4: t13d1412h2_e33ad33b3d25_6b314db333b6
+Protocol: TCP
+TLS version: 1.3
+SNI: present
+Number of cipher suites: 14
+Number of extensions: 12
+First ALPN value: h2
+Cipher suites list:
+Cipher Suite: TLS_AES_128_GCM_SHA256 (0x1301)
+Cipher Suite: TLS_AES_256_GCM_SHA384 (0x1302)
+Cipher Suite: TLS_CHACHA20_POLY1305_SHA256 (0x1303)
+Cipher Suite: TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256 (0xc02b)
+Cipher Suite: TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384 (0xc02c)
+Cipher Suite: TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256 (0xc02f)
+Cipher Suite: TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384 (0xc030)
+Cipher Suite: TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA (0xc013)
+Cipher Suite: TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384 (0xc028)
+Cipher Suite: TLS_RSA_WITH_AES_128_GCM_SHA256 (0x009c)
+Cipher Suite: TLS_RSA_WITH_AES_256_GCM_SHA384 (0x009d)
+Cipher Suite: TLS_RSA_WITH_AES_128_CBC_SHA (0x002f)
+Cipher Suite: TLS_RSA_WITH_AES_256_CBC_SHA (0x0035)
+Cipher Suite: TLS_RSA_WITH_3DES_EDE_CBC_SHA (0x000a)
+
+Extensions list: 
+Type: server_name (0)
+Type: extended_master_secret (23)
+Type: renegotiation_info (65281)
+Type: supported_groups (10)
+Type: ec_point_formats (11)
+Type: session_ticket (35)
+Type: application_layer_protocol_negotiation (16)
+Type: signature_algorithms (13)
+Type: key_share (51)
+Type: psk_key_exchange_modes (45)
+Type: supported_versions (43)
+Type: padding (21)
+
+Signatures list: 
+Signature Algorithm: ecdsa_secp256r1_sha256 (0x0403)
+Signature Algorithm: rsa_pss_rsae_sha256 (0x0804)
+Signature Algorithm: rsa_pkcs1_sha256 (0x0401)
+Signature Algorithm: ecdsa_secp384r1_sha384 (0x0503)
+Signature Algorithm: rsa_pss_rsae_sha384 (0x0805)
+Signature Algorithm: rsa_pkcs1_sha384 (0x0501)
+Signature Algorithm: rsa_pss_rsae_sha512 (0x0806)
+Signature Algorithm: rsa_pkcs1_sha512 (0x0601)
+Signature Algorithm: rsa_pkcs1_sha1 (0x0201)
+Signature Algorithm: ecdsa_secp521r1_sha512 (0x0603)
+
+---
+
+JA4: t13d1516h2_8daaf6152771_02713d6af862
+Protocol: TCP
+TLS version: 1.3
+SNI: present
+Number of cipher suites: 15
+Number of extensions: 16
+First ALPN value: h2
+Cipher suites list:
+Cipher Suite: TLS_AES_128_GCM_SHA256 (0x1301)
+Cipher Suite: TLS_AES_256_GCM_SHA384 (0x1302)
+Cipher Suite: TLS_CHACHA20_POLY1305_SHA256 (0x1303)
+Cipher Suite: TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256 (0xc02b)
+Cipher Suite: TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256 (0xc02f)
+Cipher Suite: TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384 (0xc02c)
+Cipher Suite: TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384 (0xc030)
+Cipher Suite: TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256 (0xcca9)
+Cipher Suite: TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256 (0xcca8)
+Cipher Suite: TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA (0xc013)
+Cipher Suite: TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA (0xc014)
+Cipher Suite: TLS_RSA_WITH_AES_128_GCM_SHA256 (0x009c)
+Cipher Suite: TLS_RSA_WITH_AES_256_GCM_SHA384 (0x009d)
+Cipher Suite: TLS_RSA_WITH_AES_128_CBC_SHA (0x002f)
+Cipher Suite: TLS_RSA_WITH_AES_256_CBC_SHA (0x0035)
+
+Extensions list: 
+Type: status_request (5)
+Type: signature_algorithms (13)
+Type: supported_groups (10)
+Type: session_ticket (35)
+Type: server_name (0)
+Type: supported_versions (43)
+Type: compress_certificate (27)
+Type: extended_master_secret (23)
+Type: signed_certificate_timestamp (18)
+Type: ec_point_formats (11)
+Type: encrypted_client_hello (65037)
+Type: application_layer_protocol_negotiation (16)
+Type: key_share (51)
+Type: renegotiation_info (65281)
+Type: psk_key_exchange_modes (45)
+Type: application_settings (17513)
+
+Signatures list: 
+Signature Algorithm: ecdsa_secp256r1_sha256 (0x0403)
+Signature Algorithm: rsa_pss_rsae_sha256 (0x0804)
+Signature Algorithm: rsa_pkcs1_sha256 (0x0401)
+Signature Algorithm: ecdsa_secp384r1_sha384 (0x0503)
+Signature Algorithm: rsa_pss_rsae_sha384 (0x0805)
+Signature Algorithm: rsa_pkcs1_sha384 (0x0501)
+Signature Algorithm: rsa_pss_rsae_sha512 (0x0806)
+Signature Algorithm: rsa_pkcs1_sha512 (0x0601)
+
+---
+
+JA4: t13d1516h2_8daaf6152771_d8a2da3f94cd
+Protocol: TCP
+TLS version: 1.3
+SNI: present
+Number of cipher suites: 15
+Number of extensions: 16
+First ALPN value: h2
+Cipher suites list:
+Cipher Suite: TLS_AES_128_GCM_SHA256 (0x1301)
+Cipher Suite: TLS_AES_256_GCM_SHA384 (0x1302)
+Cipher Suite: TLS_CHACHA20_POLY1305_SHA256 (0x1303)
+Cipher Suite: TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256 (0xc02b)
+Cipher Suite: TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256 (0xc02f)
+Cipher Suite: TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384 (0xc02c)
+Cipher Suite: TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384 (0xc030)
+Cipher Suite: TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256 (0xcca9)
+Cipher Suite: TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256 (0xcca8)
+Cipher Suite: TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA (0xc013)
+Cipher Suite: TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA (0xc014)
+Cipher Suite: TLS_RSA_WITH_AES_128_GCM_SHA256 (0x009c)
+Cipher Suite: TLS_RSA_WITH_AES_256_GCM_SHA384 (0x009d)
+Cipher Suite: TLS_RSA_WITH_AES_128_CBC_SHA (0x002f)
+Cipher Suite: TLS_RSA_WITH_AES_256_CBC_SHA (0x0035)
+
+Extensions list: 
+Type: status_request (5)
+Type: psk_key_exchange_modes (45)
+Type: session_ticket (35)
+Type: signed_certificate_timestamp (18)
+Type: application_layer_protocol_negotiation (16)
+Type: supported_groups (10)
+Type: Unknown (17613)
+Type: ec_point_formats (11)
+Type: key_share (51)
+Type: supported_versions (43)
+Type: signature_algorithms (13)
+Type: encrypted_client_hello (65037)
+Type: server_name (0)
+Type: extended_master_secret (23)
+Type: renegotiation_info (65281)
+Type: compress_certificate (27)
+
+Signatures list: 
+Signature Algorithm: ecdsa_secp256r1_sha256 (0x0403)
+Signature Algorithm: rsa_pss_rsae_sha256 (0x0804)
+Signature Algorithm: rsa_pkcs1_sha256 (0x0401)
+Signature Algorithm: ecdsa_secp384r1_sha384 (0x0503)
+Signature Algorithm: rsa_pss_rsae_sha384 (0x0805)
+Signature Algorithm: rsa_pkcs1_sha384 (0x0501)
+Signature Algorithm: rsa_pss_rsae_sha512 (0x0806)
+Signature Algorithm: rsa_pkcs1_sha512 (0x0601)
+
+---
+
+JA4: t13d1517h2_8daaf6152771_b0da82dd1658
+Protocol: TCP
+TLS version: 1.3
+SNI: present
+Number of cipher suites: 15
+Number of extensions: 17
+First ALPN value: h2
+Cipher suites list:
+Cipher Suite: TLS_AES_128_GCM_SHA256 (0x1301)
+Cipher Suite: TLS_AES_256_GCM_SHA384 (0x1302)
+Cipher Suite: TLS_CHACHA20_POLY1305_SHA256 (0x1303)
+Cipher Suite: TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256 (0xc02b)
+Cipher Suite: TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256 (0xc02f)
+Cipher Suite: TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384 (0xc02c)
+Cipher Suite: TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384 (0xc030)
+Cipher Suite: TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256 (0xcca9)
+Cipher Suite: TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256 (0xcca8)
+Cipher Suite: TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA (0xc013)
+Cipher Suite: TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA (0xc014)
+Cipher Suite: TLS_RSA_WITH_AES_128_GCM_SHA256 (0x009c)
+Cipher Suite: TLS_RSA_WITH_AES_256_GCM_SHA384 (0x009d)
+Cipher Suite: TLS_RSA_WITH_AES_128_CBC_SHA (0x002f)
+Cipher Suite: TLS_RSA_WITH_AES_256_CBC_SHA (0x0035)
+
+Extensions list: 
+Type: server_name (0)
+Type: supported_versions (43)
+Type: signature_algorithms (13)
+Type: session_ticket (35)
+Type: application_layer_protocol_negotiation (16)
+Type: key_share (51)
+Type: ec_point_formats (11)
+Type: encrypted_client_hello (65037)
+Type: application_settings (17513)
+Type: status_request (5)
+Type: supported_groups (10)
+Type: psk_key_exchange_modes (45)
+Type: signed_certificate_timestamp (18)
+Type: compress_certificate (27)
+Type: extended_master_secret (23)
+Type: renegotiation_info (65281)
+Type: pre_shared_key (41)
+
+Signatures list: 
+Signature Algorithm: ecdsa_secp256r1_sha256 (0x0403)
+Signature Algorithm: rsa_pss_rsae_sha256 (0x0804)
+Signature Algorithm: rsa_pkcs1_sha256 (0x0401)
+Signature Algorithm: ecdsa_secp384r1_sha384 (0x0503)
+Signature Algorithm: rsa_pss_rsae_sha384 (0x0805)
+Signature Algorithm: rsa_pkcs1_sha384 (0x0501)
+Signature Algorithm: rsa_pss_rsae_sha512 (0x0806)
+Signature Algorithm: rsa_pkcs1_sha512 (0x0601)
+
+---
+
+JA4: t13d1517h2_8daaf6152771_b6f405a00624
+Protocol: TCP
+TLS version: 1.3
+SNI: present
+Number of cipher suites: 15
+Number of extensions: 17
+First ALPN value: h2
+Cipher suites list:
+Cipher Suite: TLS_AES_128_GCM_SHA256 (0x1301)
+Cipher Suite: TLS_AES_256_GCM_SHA384 (0x1302)
+Cipher Suite: TLS_CHACHA20_POLY1305_SHA256 (0x1303)
+Cipher Suite: TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256 (0xc02b)
+Cipher Suite: TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256 (0xc02f)
+Cipher Suite: TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384 (0xc02c)
+Cipher Suite: TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384 (0xc030)
+Cipher Suite: TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256 (0xcca9)
+Cipher Suite: TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256 (0xcca8)
+Cipher Suite: TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA (0xc013)
+Cipher Suite: TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA (0xc014)
+Cipher Suite: TLS_RSA_WITH_AES_128_GCM_SHA256 (0x009c)
+Cipher Suite: TLS_RSA_WITH_AES_256_GCM_SHA384 (0x009d)
+Cipher Suite: TLS_RSA_WITH_AES_128_CBC_SHA (0x002f)
+Cipher Suite: TLS_RSA_WITH_AES_256_CBC_SHA (0x0035)
+
+Extensions list: 
+Type: extended_master_secret (23)
+Type: psk_key_exchange_modes (45)
+Type: ec_point_formats (11)
+Type: Unknown (17613)
+Type: supported_groups (10)
+Type: application_layer_protocol_negotiation (16)
+Type: signed_certificate_timestamp (18)
+Type: signature_algorithms (13)
+Type: session_ticket (35)
+Type: compress_certificate (27)
+Type: encrypted_client_hello (65037)
+Type: server_name (0)
+Type: status_request (5)
+Type: supported_versions (43)
+Type: key_share (51)
+Type: renegotiation_info (65281)
+Type: pre_shared_key (41)
+
+Signatures list: 
+Signature Algorithm: ecdsa_secp256r1_sha256 (0x0403)
+Signature Algorithm: rsa_pss_rsae_sha256 (0x0804)
+Signature Algorithm: rsa_pkcs1_sha256 (0x0401)
+Signature Algorithm: ecdsa_secp384r1_sha384 (0x0503)
+Signature Algorithm: rsa_pss_rsae_sha384 (0x0805)
+Signature Algorithm: rsa_pkcs1_sha384 (0x0501)
+Signature Algorithm: rsa_pss_rsae_sha512 (0x0806)
+Signature Algorithm: rsa_pkcs1_sha512 (0x0601)
+
+---
+
+JA4: t13d1517h2_8daaf6152771_dcad5a053991
+Protocol: TCP
+TLS version: 1.3
+SNI: present
+Number of cipher suites: 15
+Number of extensions: 17
+First ALPN value: h2
+Cipher suites list:
+Cipher Suite: TLS_AES_128_GCM_SHA256 (0x1301)
+Cipher Suite: TLS_AES_256_GCM_SHA384 (0x1302)
+Cipher Suite: TLS_CHACHA20_POLY1305_SHA256 (0x1303)
+Cipher Suite: TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256 (0xc02b)
+Cipher Suite: TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256 (0xc02f)
+Cipher Suite: TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384 (0xc02c)
+Cipher Suite: TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384 (0xc030)
+Cipher Suite: TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256 (0xcca9)
+Cipher Suite: TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256 (0xcca8)
+Cipher Suite: TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA (0xc013)
+Cipher Suite: TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA (0xc014)
+Cipher Suite: TLS_RSA_WITH_AES_128_GCM_SHA256 (0x009c)
+Cipher Suite: TLS_RSA_WITH_AES_256_GCM_SHA384 (0x009d)
+Cipher Suite: TLS_RSA_WITH_AES_128_CBC_SHA (0x002f)
+Cipher Suite: TLS_RSA_WITH_AES_256_CBC_SHA (0x0035)
+
+Extensions list: 
+Type: extended_master_secret (23)
+Type: Unknown (17613)
+Type: renegotiation_info (65281)
+Type: application_layer_protocol_negotiation (16)
+Type: compress_certificate (27)
+Type: supported_groups (10)
+Type: psk_key_exchange_modes (45)
+Type: signature_algorithms (13)
+Type: encrypted_client_hello (65037)
+Type: signed_certificate_timestamp (18)
+Type: supported_versions (43)
+Type: key_share (51)
+Type: ec_point_formats (11)
+Type: session_ticket (35)
+Type: Unknown (51764)
+Type: status_request (5)
+Type: server_name (0)
+
+Signatures list: 
+Signature Algorithm: ecdsa_secp256r1_sha256 (0x0403)
+Signature Algorithm: rsa_pss_rsae_sha256 (0x0804)
+Signature Algorithm: rsa_pkcs1_sha256 (0x0401)
+Signature Algorithm: ecdsa_secp384r1_sha384 (0x0503)
+Signature Algorithm: rsa_pss_rsae_sha384 (0x0805)
+Signature Algorithm: rsa_pkcs1_sha384 (0x0501)
+Signature Algorithm: rsa_pss_rsae_sha512 (0x0806)
+Signature Algorithm: rsa_pkcs1_sha512 (0x0601)
+
+---
+
+JA4: t13d1518h2_8daaf6152771_0c9ac9b5c72c
+Protocol: TCP
+TLS version: 1.3
+SNI: present
+Number of cipher suites: 15
+Number of extensions: 18
+First ALPN value: h2
+Cipher suites list:
+Cipher Suite: TLS_AES_128_GCM_SHA256 (0x1301)
+Cipher Suite: TLS_AES_256_GCM_SHA384 (0x1302)
+Cipher Suite: TLS_CHACHA20_POLY1305_SHA256 (0x1303)
+Cipher Suite: TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256 (0xc02b)
+Cipher Suite: TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256 (0xc02f)
+Cipher Suite: TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384 (0xc02c)
+Cipher Suite: TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384 (0xc030)
+Cipher Suite: TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256 (0xcca9)
+Cipher Suite: TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256 (0xcca8)
+Cipher Suite: TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA (0xc013)
+Cipher Suite: TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA (0xc014)
+Cipher Suite: TLS_RSA_WITH_AES_128_GCM_SHA256 (0x009c)
+Cipher Suite: TLS_RSA_WITH_AES_256_GCM_SHA384 (0x009d)
+Cipher Suite: TLS_RSA_WITH_AES_128_CBC_SHA (0x002f)
+Cipher Suite: TLS_RSA_WITH_AES_256_CBC_SHA (0x0035)
+
+Extensions list: 
+Type: session_ticket (35)
+Type: psk_key_exchange_modes (45)
+Type: application_layer_protocol_negotiation (16)
+Type: compress_certificate (27)
+Type: encrypted_client_hello (65037)
+Type: signature_algorithms (13)
+Type: Unknown (51764)
+Type: signed_certificate_timestamp (18)
+Type: ec_point_formats (11)
+Type: status_request (5)
+Type: supported_groups (10)
+Type: Unknown (17613)
+Type: extended_master_secret (23)
+Type: server_name (0)
+Type: supported_versions (43)
+Type: renegotiation_info (65281)
+Type: key_share (51)
+Type: pre_shared_key (41)
+
+Signatures list: 
+Signature Algorithm: ecdsa_secp256r1_sha256 (0x0403)
+Signature Algorithm: rsa_pss_rsae_sha256 (0x0804)
+Signature Algorithm: rsa_pkcs1_sha256 (0x0401)
+Signature Algorithm: ecdsa_secp384r1_sha384 (0x0503)
+Signature Algorithm: rsa_pss_rsae_sha384 (0x0805)
+Signature Algorithm: rsa_pkcs1_sha384 (0x0501)
+Signature Algorithm: rsa_pss_rsae_sha512 (0x0806)
+Signature Algorithm: rsa_pkcs1_sha512 (0x0601)
+
+---
+
+JA4: t13d1717h2_5b57614c22b0_3cbfd9057e0d
+Protocol: TCP
+TLS version: 1.3
+SNI: present
+Number of cipher suites: 17
+Number of extensions: 17
+First ALPN value: h2
+Cipher suites list:
+Cipher Suite: TLS_AES_128_GCM_SHA256 (0x1301)
+Cipher Suite: TLS_CHACHA20_POLY1305_SHA256 (0x1303)
+Cipher Suite: TLS_AES_256_GCM_SHA384 (0x1302)
+Cipher Suite: TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256 (0xc02b)
+Cipher Suite: TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256 (0xc02f)
+Cipher Suite: TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256 (0xcca9)
+Cipher Suite: TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256 (0xcca8)
+Cipher Suite: TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384 (0xc02c)
+Cipher Suite: TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384 (0xc030)
+Cipher Suite: TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA (0xc00a)
+Cipher Suite: TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA (0xc009)
+Cipher Suite: TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA (0xc013)
+Cipher Suite: TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA (0xc014)
+Cipher Suite: TLS_RSA_WITH_AES_128_GCM_SHA256 (0x009c)
+Cipher Suite: TLS_RSA_WITH_AES_256_GCM_SHA384 (0x009d)
+Cipher Suite: TLS_RSA_WITH_AES_128_CBC_SHA (0x002f)
+Cipher Suite: TLS_RSA_WITH_AES_256_CBC_SHA (0x0035)
+
+Extensions list:
+Type: server_name (0)
+Type: extended_master_secret (23)
+Type: renegotiation_info (65281)
+Type: supported_groups (10)
+Type: ec_point_formats (11)
+Type: session_ticket (35)
+Type: application_layer_protocol_negotiation (16)
+Type: status_request (5)
+Type: delegated_credentials (34)
+Type: signed_certificate_timestamp (18)
+Type: key_share (51)
+Type: supported_versions (43)
+Type: signature_algorithms (13)
+Type: psk_key_exchange_modes (45)
+Type: record_size_limit (28)
+Type: compress_certificate (27)
+Type: encrypted_client_hello (65037)
+
+Signatures list:
+Signature Algorithm: ecdsa_secp256r1_sha256 (0x0403)
+Signature Algorithm: ecdsa_secp384r1_sha384 (0x0503)
+Signature Algorithm: ecdsa_secp521r1_sha512 (0x0603)
+Signature Algorithm: rsa_pss_rsae_sha256 (0x0804)
+Signature Algorithm: rsa_pss_rsae_sha384 (0x0805)
+Signature Algorithm: rsa_pss_rsae_sha512 (0x0806)
+Signature Algorithm: rsa_pkcs1_sha256 (0x0401)
+Signature Algorithm: rsa_pkcs1_sha384 (0x0501)
+Signature Algorithm: rsa_pkcs1_sha512 (0x0601)
+Signature Algorithm: ecdsa_sha1 (0x0203)
+Signature Algorithm: rsa_pkcs1_sha1 (0x0201)
+
+---
+
+JA4: t13d1717h2_5b57614c22b0_e6dcd7ae0a9e
+Protocol: TCP
+TLS version: 1.3
+SNI: present
+Number of cipher suites: 17
+Number of extensions: 17
+First ALPN value: h2
+Cipher suites list:
+Cipher Suite: TLS_AES_128_GCM_SHA256 (0x1301)
+Cipher Suite: TLS_CHACHA20_POLY1305_SHA256 (0x1303)
+Cipher Suite: TLS_AES_256_GCM_SHA384 (0x1302)
+Cipher Suite: TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256 (0xc02b)
+Cipher Suite: TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256 (0xc02f)
+Cipher Suite: TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256 (0xcca9)
+Cipher Suite: TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256 (0xcca8)
+Cipher Suite: TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384 (0xc02c)
+Cipher Suite: TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384 (0xc030)
+Cipher Suite: TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA (0xc00a)
+Cipher Suite: TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA (0xc009)
+Cipher Suite: TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA (0xc013)
+Cipher Suite: TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA (0xc014)
+Cipher Suite: TLS_RSA_WITH_AES_128_GCM_SHA256 (0x009c)
+Cipher Suite: TLS_RSA_WITH_AES_256_GCM_SHA384 (0x009d)
+Cipher Suite: TLS_RSA_WITH_AES_128_CBC_SHA (0x002f)
+Cipher Suite: TLS_RSA_WITH_AES_256_CBC_SHA (0x0035)
+
+Extensions list:
+Type: server_name (0)
+Type: extended_master_secret (23)
+Type: renegotiation_info (65281)
+Type: supported_groups (10)
+Type: ec_point_formats (11)
+Type: application_layer_protocol_negotiation (16)
+Type: status_request (5)
+Type: delegated_credentials (34)
+Type: signed_certificate_timestamp (18)
+Type: key_share (51)
+Type: supported_versions (43)
+Type: signature_algorithms (13)
+Type: psk_key_exchange_modes (45)
+Type: record_size_limit (28)
+Type: compress_certificate (27)
+Type: encrypted_client_hello (65037)
+Type: pre_shared_key (41)
+
+Signatures list:
+Signature Algorithm: ecdsa_secp256r1_sha256 (0x0403)
+Signature Algorithm: ecdsa_secp384r1_sha384 (0x0503)
+Signature Algorithm: ecdsa_secp521r1_sha512 (0x0603)
+Signature Algorithm: rsa_pss_rsae_sha256 (0x0804)
+Signature Algorithm: rsa_pss_rsae_sha384 (0x0805)
+Signature Algorithm: rsa_pss_rsae_sha512 (0x0806)
+Signature Algorithm: rsa_pkcs1_sha256 (0x0401)
+Signature Algorithm: rsa_pkcs1_sha384 (0x0501)
+Signature Algorithm: rsa_pkcs1_sha512 (0x0601)
+Signature Algorithm: ecdsa_sha1 (0x0203)
+Signature Algorithm: rsa_pkcs1_sha1 (0x0201)
+
+---
+
+JA4: t13d2812h2_a01be8c064b6_ef4b9b248d72
+Protocol: TCP
+TLS version: 1.3
+SNI: present
+Number of cipher suites: 28
+Number of extensions: 12
+First ALPN value: h2
+Cipher suites list:
+Cipher Suite: TLS_AES_256_GCM_SHA384 (0x1302)
+Cipher Suite: TLS_CHACHA20_POLY1305_SHA256 (0x1303)
+Cipher Suite: TLS_AES_128_GCM_SHA256 (0x1301)
+Cipher Suite: TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256 (0xc02b)
+Cipher Suite: TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256 (0xc02f)
+Cipher Suite: TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384 (0xc02c)
+Cipher Suite: TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384 (0xc030)
+Cipher Suite: TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256 (0xcca9)
+Cipher Suite: TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256 (0xcca8)
+Cipher Suite: TLS_DHE_RSA_WITH_AES_128_GCM_SHA256 (0x009e)
+Cipher Suite: TLS_DHE_RSA_WITH_AES_256_GCM_SHA384 (0x009f)
+Cipher Suite: TLS_DHE_RSA_WITH_CHACHA20_POLY1305_SHA256 (0xccaa)
+Cipher Suite: TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256 (0xc023)
+Cipher Suite: TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256 (0xc027)
+Cipher Suite: TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA (0xc009)
+Cipher Suite: TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA (0xc013)
+Cipher Suite: TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA384 (0xc024)
+Cipher Suite: TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384 (0xc028)
+Cipher Suite: TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA (0xc00a)
+Cipher Suite: TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA (0xc014)
+Cipher Suite: TLS_DHE_RSA_WITH_AES_128_CBC_SHA256 (0x0067)
+Cipher Suite: TLS_DHE_RSA_WITH_AES_256_CBC_SHA256 (0x006b)
+Cipher Suite: TLS_RSA_WITH_AES_128_GCM_SHA256 (0x009c)
+Cipher Suite: TLS_RSA_WITH_AES_256_GCM_SHA384 (0x009d)
+Cipher Suite: TLS_RSA_WITH_AES_128_CBC_SHA256 (0x003c)
+Cipher Suite: TLS_RSA_WITH_AES_256_CBC_SHA256 (0x003d)
+Cipher Suite: TLS_RSA_WITH_AES_128_CBC_SHA (0x002f)
+Cipher Suite: TLS_RSA_WITH_AES_256_CBC_SHA (0x0035)
+
+Extensions list:
+Type: renegotiation_info (65281)
+Type: server_name (0)
+Type: ec_point_formats (11)
+Type: supported_groups (10)
+Type: session_ticket (35)
+Type: application_layer_protocol_negotiation (16)
+Type: encrypt_then_mac (22)
+Type: extended_master_secret (23)
+Type: signature_algorithms (13)
+Type: supported_versions (43)
+Type: psk_key_exchange_modes (45)
+Type: key_share (51)
+
+Signatures list:
+Signature Algorithm: ecdsa_secp256r1_sha256 (0x0403)
+Signature Algorithm: ecdsa_secp384r1_sha384 (0x0503)
+Signature Algorithm: ecdsa_secp521r1_sha512 (0x0603)
+Signature Algorithm: ed25519 (0x0807)
+Signature Algorithm: ed448 (0x0808)
+Signature Algorithm: ecdsa_brainpoolP256r1tls13_sha256 (0x081a)
+Signature Algorithm: ecdsa_brainpoolP384r1tls13_sha384 (0x081b)
+Signature Algorithm: ecdsa_brainpoolP512r1tls13_sha512 (0x081c)
+Signature Algorithm: rsa_pss_pss_sha256 (0x0809)
+Signature Algorithm: rsa_pss_pss_sha384 (0x080a)
+Signature Algorithm: rsa_pss_pss_sha512 (0x080b)
+Signature Algorithm: rsa_pss_rsae_sha256 (0x0804)
+Signature Algorithm: rsa_pss_rsae_sha384 (0x0805)
+Signature Algorithm: rsa_pss_rsae_sha512 (0x0806)
+Signature Algorithm: rsa_pkcs1_sha256 (0x0401)
+Signature Algorithm: rsa_pkcs1_sha384 (0x0501)
+Signature Algorithm: rsa_pkcs1_sha512 (0x0601)
+Signature Algorithm: SHA224 ECDSA (0x0303)
+Signature Algorithm: SHA224 RSA (0x0301)
+Signature Algorithm: SHA224 DSA (0x0302)
+Signature Algorithm: SHA256 DSA (0x0402)
+Signature Algorithm: SHA384 DSA (0x0502)
+Signature Algorithm: SHA512 DSA (0x0602)
+
+---
+
+JA4: t13d3012h2_1d37bd780c83_882d495ac381
+Protocol: TCP
+TLS version: 1.3
+SNI: present
+Number of cipher suites: 30
+Number of extensions: 12
+First ALPN value: h2
+Cipher suites list:
+Cipher Suite: TLS_AES_256_GCM_SHA384 (0x1302)
+Cipher Suite: TLS_CHACHA20_POLY1305_SHA256 (0x1303)
+Cipher Suite: TLS_AES_128_GCM_SHA256 (0x1301)
+Cipher Suite: TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384 (0xc02c)
+Cipher Suite: TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384 (0xc030)
+Cipher Suite: TLS_DHE_RSA_WITH_AES_256_GCM_SHA384 (0x009f)
+Cipher Suite: TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256 (0xcca9)
+Cipher Suite: TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256 (0xcca8)
+Cipher Suite: TLS_DHE_RSA_WITH_CHACHA20_POLY1305_SHA256 (0xccaa)
+Cipher Suite: TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256 (0xc02b)
+Cipher Suite: TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256 (0xc02f)
+Cipher Suite: TLS_DHE_RSA_WITH_AES_128_GCM_SHA256 (0x009e)
+Cipher Suite: TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA384 (0xc024)
+Cipher Suite: TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384 (0xc028)
+Cipher Suite: TLS_DHE_RSA_WITH_AES_256_CBC_SHA256 (0x006b)
+Cipher Suite: TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256 (0xc023)
+Cipher Suite: TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256 (0xc027)
+Cipher Suite: TLS_DHE_RSA_WITH_AES_128_CBC_SHA256 (0x0067)
+Cipher Suite: TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA (0xc00a)
+Cipher Suite: TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA (0xc014)
+Cipher Suite: TLS_DHE_RSA_WITH_AES_256_CBC_SHA (0x0039)
+Cipher Suite: TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA (0xc009)
+Cipher Suite: TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA (0xc013)
+Cipher Suite: TLS_DHE_RSA_WITH_AES_128_CBC_SHA (0x0033)
+Cipher Suite: TLS_RSA_WITH_AES_256_GCM_SHA384 (0x009d)
+Cipher Suite: TLS_RSA_WITH_AES_128_GCM_SHA256 (0x009c)
+Cipher Suite: TLS_RSA_WITH_AES_256_CBC_SHA256 (0x003d)
+Cipher Suite: TLS_RSA_WITH_AES_128_CBC_SHA256 (0x003c)
+Cipher Suite: TLS_RSA_WITH_AES_256_CBC_SHA (0x0035)
+Cipher Suite: TLS_RSA_WITH_AES_128_CBC_SHA (0x002f)
+
+Extensions list:
+Type: renegotiation_info (65281)
+Type: server_name (0)
+Type: ec_point_formats (11)
+Type: supported_groups (10)
+Type: application_layer_protocol_negotiation (16)
+Type: encrypt_then_mac (22)
+Type: extended_master_secret (23)
+Type: post_handshake_auth (49)
+Type: signature_algorithms (13)
+Type: supported_versions (43)
+Type: psk_key_exchange_modes (45)
+Type: key_share (51)
+
+Signatures list:
+Signature Algorithm: Unknown Unknown (0x0905)
+Signature Algorithm: Unknown Unknown (0x0906)
+Signature Algorithm: Unknown Unknown (0x0904)
+Signature Algorithm: ecdsa_secp256r1_sha256 (0x0403)
+Signature Algorithm: ecdsa_secp384r1_sha384 (0x0503)
+Signature Algorithm: ecdsa_secp521r1_sha512 (0x0603)
+Signature Algorithm: ed25519 (0x0807)
+Signature Algorithm: ed448 (0x0808)
+Signature Algorithm: ecdsa_brainpoolP256r1tls13_sha256 (0x081a)
+Signature Algorithm: ecdsa_brainpoolP384r1tls13_sha384 (0x081b)
+Signature Algorithm: ecdsa_brainpoolP512r1tls13_sha512 (0x081c)
+Signature Algorithm: rsa_pss_pss_sha256 (0x0809)
+Signature Algorithm: rsa_pss_pss_sha384 (0x080a)
+Signature Algorithm: rsa_pss_pss_sha512 (0x080b)
+Signature Algorithm: rsa_pss_rsae_sha256 (0x0804)
+Signature Algorithm: rsa_pss_rsae_sha384 (0x0805)
+Signature Algorithm: rsa_pss_rsae_sha512 (0x0806)
+Signature Algorithm: rsa_pkcs1_sha256 (0x0401)
+Signature Algorithm: rsa_pkcs1_sha384 (0x0501)
+Signature Algorithm: rsa_pkcs1_sha512 (0x0601)
+Signature Algorithm: SHA224 ECDSA (0x0303)
+Signature Algorithm: SHA224 RSA (0x0301)
+Signature Algorithm: SHA224 DSA (0x0302)
+Signature Algorithm: SHA256 DSA (0x0402)
+Signature Algorithm: SHA384 DSA (0x0502)
+Signature Algorithm: SHA512 DSA (0x0602)
+
+---
+
+JA4: t13d301000_1d37bd780c83_c3976d268853
+Protocol: TCP
+TLS version: 1.3
+SNI: present
+Number of cipher suites: 30
+Number of extensions: 10
+First ALPN value: 00
+Cipher suites list:
+Cipher Suite: TLS_AES_256_GCM_SHA384 (0x1302)
+Cipher Suite: TLS_CHACHA20_POLY1305_SHA256 (0x1303)
+Cipher Suite: TLS_AES_128_GCM_SHA256 (0x1301)
+Cipher Suite: TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384 (0xc02c)
+Cipher Suite: TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384 (0xc030)
+Cipher Suite: TLS_DHE_RSA_WITH_AES_256_GCM_SHA384 (0x009f)
+Cipher Suite: TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256 (0xcca9)
+Cipher Suite: TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256 (0xcca8)
+Cipher Suite: TLS_DHE_RSA_WITH_CHACHA20_POLY1305_SHA256 (0xccaa)
+Cipher Suite: TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256 (0xc02b)
+Cipher Suite: TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256 (0xc02f)
+Cipher Suite: TLS_DHE_RSA_WITH_AES_128_GCM_SHA256 (0x009e)
+Cipher Suite: TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA384 (0xc024)
+Cipher Suite: TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384 (0xc028)
+Cipher Suite: TLS_DHE_RSA_WITH_AES_256_CBC_SHA256 (0x006b)
+Cipher Suite: TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256 (0xc023)
+Cipher Suite: TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256 (0xc027)
+Cipher Suite: TLS_DHE_RSA_WITH_AES_128_CBC_SHA256 (0x0067)
+Cipher Suite: TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA (0xc00a)
+Cipher Suite: TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA (0xc014)
+Cipher Suite: TLS_DHE_RSA_WITH_AES_256_CBC_SHA (0x0039)
+Cipher Suite: TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA (0xc009)
+Cipher Suite: TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA (0xc013)
+Cipher Suite: TLS_DHE_RSA_WITH_AES_128_CBC_SHA (0x0033)
+Cipher Suite: TLS_RSA_WITH_AES_256_GCM_SHA384 (0x009d)
+Cipher Suite: TLS_RSA_WITH_AES_128_GCM_SHA256 (0x009c)
+Cipher Suite: TLS_RSA_WITH_AES_256_CBC_SHA256 (0x003d)
+Cipher Suite: TLS_RSA_WITH_AES_128_CBC_SHA256 (0x003c)
+Cipher Suite: TLS_RSA_WITH_AES_256_CBC_SHA (0x0035)
+Cipher Suite: TLS_RSA_WITH_AES_128_CBC_SHA (0x002f)
+
+Extensions list:
+Type: renegotiation_info (65281)
+Type: server_name (0)
+Type: ec_point_formats (11)
+Type: supported_groups (10)
+Type: encrypt_then_mac (22)
+Type: extended_master_secret (23)
+Type: signature_algorithms (13)
+Type: supported_versions (43)
+Type: psk_key_exchange_modes (45)
+Type: key_share (51)
+
+Signatures list:
+Signature Algorithm: Unknown Unknown (0x0905)
+Signature Algorithm: Unknown Unknown (0x0906)
+Signature Algorithm: Unknown Unknown (0x0904)
+Signature Algorithm: ecdsa_secp256r1_sha256 (0x0403)
+Signature Algorithm: ecdsa_secp384r1_sha384 (0x0503)
+Signature Algorithm: ecdsa_secp521r1_sha512 (0x0603)
+Signature Algorithm: ed25519 (0x0807)
+Signature Algorithm: ed448 (0x0808)
+Signature Algorithm: ecdsa_brainpoolP256r1tls13_sha256 (0x081a)
+Signature Algorithm: ecdsa_brainpoolP384r1tls13_sha384 (0x081b)
+Signature Algorithm: ecdsa_brainpoolP512r1tls13_sha512 (0x081c)
+Signature Algorithm: rsa_pss_pss_sha256 (0x0809)
+Signature Algorithm: rsa_pss_pss_sha384 (0x080a)
+Signature Algorithm: rsa_pss_pss_sha512 (0x080b)
+Signature Algorithm: rsa_pss_rsae_sha256 (0x0804)
+Signature Algorithm: rsa_pss_rsae_sha384 (0x0805)
+Signature Algorithm: rsa_pss_rsae_sha512 (0x0806)
+Signature Algorithm: rsa_pkcs1_sha256 (0x0401)
+Signature Algorithm: rsa_pkcs1_sha384 (0x0501)
+Signature Algorithm: rsa_pkcs1_sha512 (0x0601)
+Signature Algorithm: SHA224 ECDSA (0x0303)
+Signature Algorithm: SHA224 RSA (0x0301)
+Signature Algorithm: SHA224 DSA (0x0302)
+Signature Algorithm: SHA256 DSA (0x0402)
+Signature Algorithm: SHA384 DSA (0x0502)
+Signature Algorithm: SHA512 DSA (0x0602)
+
+---
+
+JA4: t13d751100_479067518aa3_fb8d5ffd48c1
+Protocol: TCP
+TLS version: 1.3
+SNI: present
+Number of cipher suites: 75
+Number of extensions: 11
+First ALPN value: 00
+Cipher suites list:
+Cipher Suite: TLS_AES_256_GCM_SHA384 (0x1302)
+Cipher Suite: TLS_CHACHA20_POLY1305_SHA256 (0x1303)
+Cipher Suite: TLS_AES_128_GCM_SHA256 (0x1301)
+Cipher Suite: TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384 (0xc02c)
+Cipher Suite: TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384 (0xc030)
+Cipher Suite: TLS_DHE_DSS_WITH_AES_256_GCM_SHA384 (0x00a3)
+Cipher Suite: TLS_DHE_RSA_WITH_AES_256_GCM_SHA384 (0x009f)
+Cipher Suite: TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256 (0xcca9)
+Cipher Suite: TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256 (0xcca8)
+Cipher Suite: TLS_DHE_RSA_WITH_CHACHA20_POLY1305_SHA256 (0xccaa)
+Cipher Suite: TLS_ECDHE_ECDSA_WITH_AES_256_CCM_8 (0xc0af)
+Cipher Suite: TLS_ECDHE_ECDSA_WITH_AES_256_CCM (0xc0ad)
+Cipher Suite: TLS_DHE_RSA_WITH_AES_256_CCM_8 (0xc0a3)
+Cipher Suite: TLS_DHE_RSA_WITH_AES_256_CCM (0xc09f)
+Cipher Suite: TLS_ECDHE_ECDSA_WITH_ARIA_256_GCM_SHA384 (0xc05d)
+Cipher Suite: TLS_ECDHE_RSA_WITH_ARIA_256_GCM_SHA384 (0xc061)
+Cipher Suite: TLS_DHE_DSS_WITH_ARIA_256_GCM_SHA384 (0xc057)
+Cipher Suite: TLS_DHE_RSA_WITH_ARIA_256_GCM_SHA384 (0xc053)
+Cipher Suite: TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256 (0xc02b)
+Cipher Suite: TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256 (0xc02f)
+Cipher Suite: TLS_DHE_DSS_WITH_AES_128_GCM_SHA256 (0x00a2)
+Cipher Suite: TLS_DHE_RSA_WITH_AES_128_GCM_SHA256 (0x009e)
+Cipher Suite: TLS_ECDHE_ECDSA_WITH_AES_128_CCM_8 (0xc0ae)
+Cipher Suite: TLS_ECDHE_ECDSA_WITH_AES_128_CCM (0xc0ac)
+Cipher Suite: TLS_DHE_RSA_WITH_AES_128_CCM_8 (0xc0a2)
+Cipher Suite: TLS_DHE_RSA_WITH_AES_128_CCM (0xc09e)
+Cipher Suite: TLS_ECDHE_ECDSA_WITH_ARIA_128_GCM_SHA256 (0xc05c)
+Cipher Suite: TLS_ECDHE_RSA_WITH_ARIA_128_GCM_SHA256 (0xc060)
+Cipher Suite: TLS_DHE_DSS_WITH_ARIA_128_GCM_SHA256 (0xc056)
+Cipher Suite: TLS_DHE_RSA_WITH_ARIA_128_GCM_SHA256 (0xc052)
+Cipher Suite: TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA384 (0xc024)
+Cipher Suite: TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384 (0xc028)
+Cipher Suite: TLS_DHE_RSA_WITH_AES_256_CBC_SHA256 (0x006b)
+Cipher Suite: TLS_DHE_DSS_WITH_AES_256_CBC_SHA256 (0x006a)
+Cipher Suite: TLS_ECDHE_ECDSA_WITH_CAMELLIA_256_CBC_SHA384 (0xc073)
+Cipher Suite: TLS_ECDHE_RSA_WITH_CAMELLIA_256_CBC_SHA384 (0xc077)
+Cipher Suite: TLS_DHE_RSA_WITH_CAMELLIA_256_CBC_SHA256 (0x00c4)
+Cipher Suite: TLS_DHE_DSS_WITH_CAMELLIA_256_CBC_SHA256 (0x00c3)
+Cipher Suite: TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256 (0xc023)
+Cipher Suite: TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256 (0xc027)
+Cipher Suite: TLS_DHE_RSA_WITH_AES_128_CBC_SHA256 (0x0067)
+Cipher Suite: TLS_DHE_DSS_WITH_AES_128_CBC_SHA256 (0x0040)
+Cipher Suite: TLS_ECDHE_ECDSA_WITH_CAMELLIA_128_CBC_SHA256 (0xc072)
+Cipher Suite: TLS_ECDHE_RSA_WITH_CAMELLIA_128_CBC_SHA256 (0xc076)
+Cipher Suite: TLS_DHE_RSA_WITH_CAMELLIA_128_CBC_SHA256 (0x00be)
+Cipher Suite: TLS_DHE_DSS_WITH_CAMELLIA_128_CBC_SHA256 (0x00bd)
+Cipher Suite: TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA (0xc00a)
+Cipher Suite: TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA (0xc014)
+Cipher Suite: TLS_DHE_RSA_WITH_AES_256_CBC_SHA (0x0039)
+Cipher Suite: TLS_DHE_DSS_WITH_AES_256_CBC_SHA (0x0038)
+Cipher Suite: TLS_DHE_RSA_WITH_CAMELLIA_256_CBC_SHA (0x0088)
+Cipher Suite: TLS_DHE_DSS_WITH_CAMELLIA_256_CBC_SHA (0x0087)
+Cipher Suite: TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA (0xc009)
+Cipher Suite: TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA (0xc013)
+Cipher Suite: TLS_DHE_RSA_WITH_AES_128_CBC_SHA (0x0033)
+Cipher Suite: TLS_DHE_DSS_WITH_AES_128_CBC_SHA (0x0032)
+Cipher Suite: TLS_DHE_RSA_WITH_CAMELLIA_128_CBC_SHA (0x0045)
+Cipher Suite: TLS_DHE_DSS_WITH_CAMELLIA_128_CBC_SHA (0x0044)
+Cipher Suite: TLS_RSA_WITH_AES_256_GCM_SHA384 (0x009d)
+Cipher Suite: TLS_RSA_WITH_AES_256_CCM_8 (0xc0a1)
+Cipher Suite: TLS_RSA_WITH_AES_256_CCM (0xc09d)
+Cipher Suite: TLS_RSA_WITH_ARIA_256_GCM_SHA384 (0xc051)
+Cipher Suite: TLS_RSA_WITH_AES_128_GCM_SHA256 (0x009c)
+Cipher Suite: TLS_RSA_WITH_AES_128_CCM_8 (0xc0a0)
+Cipher Suite: TLS_RSA_WITH_AES_128_CCM (0xc09c)
+Cipher Suite: TLS_RSA_WITH_ARIA_128_GCM_SHA256 (0xc050)
+Cipher Suite: TLS_RSA_WITH_AES_256_CBC_SHA256 (0x003d)
+Cipher Suite: TLS_RSA_WITH_CAMELLIA_256_CBC_SHA256 (0x00c0)
+Cipher Suite: TLS_RSA_WITH_AES_128_CBC_SHA256 (0x003c)
+Cipher Suite: TLS_RSA_WITH_CAMELLIA_128_CBC_SHA256 (0x00ba)
+Cipher Suite: TLS_RSA_WITH_AES_256_CBC_SHA (0x0035)
+Cipher Suite: TLS_RSA_WITH_CAMELLIA_256_CBC_SHA (0x0084)
+Cipher Suite: TLS_RSA_WITH_AES_128_CBC_SHA (0x002f)
+Cipher Suite: TLS_RSA_WITH_CAMELLIA_128_CBC_SHA (0x0041)
+Cipher Suite: TLS_EMPTY_RENEGOTIATION_INFO_SCSV (0x00ff)
+
+Extensions list:
+Type: server_name (0)
+Type: ec_point_formats (11)
+Type: supported_groups (10)
+Type: session_ticket (35)
+Type: encrypt_then_mac (22)
+Type: extended_master_secret (23)
+Type: post_handshake_auth (49)
+Type: signature_algorithms (13)
+Type: supported_versions (43)
+Type: psk_key_exchange_modes (45)
+Type: key_share (51)
+
+Signatures list:
+Signature Algorithm: ecdsa_secp256r1_sha256 (0x0403)
+Signature Algorithm: ecdsa_secp384r1_sha384 (0x0503)
+Signature Algorithm: ecdsa_secp521r1_sha512 (0x0603)
+Signature Algorithm: ed25519 (0x0807)
+Signature Algorithm: ed448 (0x0808)
+Signature Algorithm: rsa_pss_pss_sha256 (0x0809)
+Signature Algorithm: rsa_pss_pss_sha384 (0x080a)
+Signature Algorithm: rsa_pss_pss_sha512 (0x080b)
+Signature Algorithm: rsa_pss_rsae_sha256 (0x0804)
+Signature Algorithm: rsa_pss_rsae_sha384 (0x0805)
+Signature Algorithm: rsa_pss_rsae_sha512 (0x0806)
+Signature Algorithm: rsa_pkcs1_sha256 (0x0401)
+Signature Algorithm: rsa_pkcs1_sha384 (0x0501)
+Signature Algorithm: rsa_pkcs1_sha512 (0x0601)
+Signature Algorithm: SHA224 ECDSA (0x0303)
+Signature Algorithm: SHA224 RSA (0x0301)
+Signature Algorithm: SHA224 DSA (0x0302)
+Signature Algorithm: SHA256 DSA (0x0402)
+Signature Algorithm: SHA384 DSA (0x0502)
+Signature Algorithm: SHA512 DSA (0x0602)

@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>ProCAPTCHA Frictionless Gateway</title>
+    <script
+      type="module"
+      src="https://js.prosopo.io/js/procaptcha.bundle.js"
+      async
+      defer
+    ></script>
+    <script src="bundle.js" defer></script>
+  </head>
+  <body>
+    <h2>Please wait while we verify you're human...</h2>
+    <form>
+      <div
+        id="procaptcha-container"
+        data-sitekey="5CrAxMtjFnmMZevQZU1q5Sva45HHe8G2rDDSZbZuvE2TPDnG"
+      ></div>
+    </form>
+    <script async defer type="module">
+      import { render } from "https://js.prosopo.io/js/procaptcha.bundle.js";
+      // Define a callback function to be called when the CAPTCHA is verified
+      function onCaptchaVerified(output) {
+        fetch("/verify-prosopo", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({ output }),
+        })
+          .then(async (res) => {
+            const jsonRes = await res.json();
+            if (jsonRes.verified) {
+              document.cookie = "verified=true; path=/; max-age=3";
+
+              window.location.href = "/";
+            } else {
+              document.body.innerHTML = "<h3>Access denied (low score).</h3>";
+            }
+          })
+          .catch((err) => {
+            document.body.innerHTML = "<h3>Error contacting server.</h3>";
+          });
+      }
+
+      // Get the Element using elementId
+      const captchaContainer = document.getElementById("procaptcha-container");
+      // Render the CAPTCHA explicitly on a container with id "procaptcha-container"
+      render(captchaContainer, {
+        siteKey: "5CrAxMtjFnmMZevQZU1q5Sva45HHe8G2rDDSZbZuvE2TPDnG",
+        theme: "dark",
+        callback: onCaptchaVerified,
+      });
+    </script>
+    <script>
+      window.onload = async function onloadCallback() {
+        const domainKey = "site4";
+        const backendUrl =
+          "https://api.example.org"; // Change to your backend domain/IP
+        /* Save browser fingerprint */
+        try {
+          const result = await window.computeFingerprint();
+
+          // Send it to your server (adjust URL and method as needed)
+          const res = await fetch(`${backendUrl}/fingerprints`, {
+            method: "POST",
+            credentials: "include",
+            headers: { "Content-Type": "application/json" },
+            body: JSON.stringify({ attributesJS: result, siteKey: domainKey }),
+          });
+
+          const data = await res.json();
+
+          console.log("Fingerprint sent successfully.");
+
+          // save cookie
+          const cookieId = data["cookieId"];
+
+          // Get the saved cookieId
+          let evCookieId = await window.getEverCookie("cookieId", false);
+          let evCookieIdVal = evCookieId.value;
+
+          if (!evCookieIdVal) {
+            await window.setEverCookie("cookieId", cookieId, 120);
+          }
+        } catch (error) {
+          console.error("Error computing or sending fingerprint:", error);
+        }
+      };
+    </script>
+  </body>
+</html>
