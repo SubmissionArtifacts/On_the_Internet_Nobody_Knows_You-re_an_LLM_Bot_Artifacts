@@ -1,4 +1,4 @@
-## JA4 Fingerprints
+# JA4 Fingerprints
 
 This directory contains the JA4 fingerprints collected during our experiments, together with a decoded representation of their TLS and QUIC handshake characteristics.
 
@@ -20,3 +20,18 @@ The purpose of this data is to facilitate the inspection and comparison of the J
 
 > **Note.** Some values may vary across browser versions, operating systems, network stacks, and software updates. Consequently, the fingerprints provided in this artifact should be considered representative of the experimental period rather than permanent identifiers.
 
+# Supplementary Files
+
+We provide two supplementary files used to construct and interpret **Table 5** of the paper:
+
+**1. JA4 fingerprint counts across configurations**
+
+This figure shows the number of occurrences of each JA4 fingerprint across the different configurations of our experiemental setup.
+
+![JA4 fingerprint counts across configurations](./count_of_JA4_per_configuration.png)
+
+**2. JA4 fingerprint mapping**
+
+This figure maps each JA4 index to its corresponding full JA4 hash and associated features.
+
+![JA4 fingerprint mapping](./mapping_between_JA4_index_hash_and_features.png)

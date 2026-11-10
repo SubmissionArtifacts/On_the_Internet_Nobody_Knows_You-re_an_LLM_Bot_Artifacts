@@ -15,7 +15,10 @@ This repository includes:
 * The core architecture of our **honeysites** (anonymized and excluding credentials) as well as the **tshark** script for collecting network traffic;
 * The final **active** and **passive** datasets, from which IP addresses and other identifying information have been removed for privacy reasons;
 * Six analysis notebooks used to reproduce the results presented in **Sections 5–7** and **Appendix** of the paper;
-* The code and data used to generate **Figure 2** and **Tables 3, 4, 5, 6, 9, 10, and 11**.
+* The code and datasets used to generate **Figure 2** and **Tables 3–7**, along with additional tables of interest that were omitted from the paper due to space constraints.
+* Some documentation of fingerprinting attributes considered in our analysis, covering network-level data, HTTP headers, and browser attributes collected through JavaScript.
+* The prompts used in the Web Agent experiments.
+
 
 ## Repository Structure
 
@@ -31,6 +34,12 @@ Analysis/
 ├── tls_layer.ipynb
 ├── browser_fingerprinting_layer.ipynb
 ├── bots_classification.ipynb
+└── README.md
+
+CollectedAttributes/
+├── browser_fp_attributes.png
+├── top_discriminative_browser_fp_attributes.png
+├── NginxAccessLogFormat.md
 └── README.md
 
 Honeysites/
@@ -52,12 +61,17 @@ Honeysites/
 └── README.md
 
 JA4/
+├── count_of_JA4_per_configuration.png
 ├── JA4_details.txt
+├── mapping_between_JA4_index_hash_and_features.png
 └── README.md
 
 PassiveTraffic/
 ├── passive_data.csv
 ├── passive_traffic.ipynb
+└── README.md
+
+Prompts/
 └── README.md
 
 Scripts/
